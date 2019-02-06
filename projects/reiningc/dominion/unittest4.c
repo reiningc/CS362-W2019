@@ -67,23 +67,6 @@ int main() {
 	    printf("isGameOver() Test 4: %sPASS %s- game is over when three supply piles at 0\n", Color_Green, Color_end);
     else
 	    printf("isGameOver() Test 4: %sFAIL %s- game is not over when three supply piles at 0\n", Color_Red, Color_end);
-/*
-    // test 4: player attempts to gain card when none is left in supply (should not add card to hand)
-    cardAdded = 0;				// reset cardAdded to false
-    rv = gainCard(gold, &G, hand, player);	// attempt to gain gold in hand
-    // check for gold in hand
-    for(i = 0; i < MAX_HAND; i++)
-    {
-	    if(G.hand[0][i] == gold)
-	    {
-		cardAdded = cardAdded + 1;
-	    }
-    }
-    if(rv == -1 && cardAdded == 1)
-	    printf("gainCard() Test 4: %sPASS %s- card not added to hand when none available in supply\n", Color_Green, Color_end);
-    else
-	    printf("gainCard() Test 4: %sFAIL %s- card added to hand when none available in supply\n", Color_Red, Color_end);
-*/
-    return 0;
 
+    return 0;
 }
