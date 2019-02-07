@@ -56,6 +56,17 @@ cardtest3: cardtest3.c dominion.o rngs.o
 cardtest4: cardtest4.c dominion.o rngs.o
 	gcc -o cardtest4 -g  cardtest4.c dominion.o rngs.o $(CFLAGS)
 
+unittestresults: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 cardtest3 cardtest4
+	gcov -b ./unittest1 >unittestresults.out
+	gcov -b ./unittest2 >>unittestresults.out
+	gcov -b ./unittest3 >>unittestresults.out
+	gcov -b ./unittest4 >>unittestresults.out
+	gcov -b ./cardtest1 >>unittestresults.out
+	gcov -b ./cardtest2 >>unittestresults.out
+	gcov -b ./cardtest3 >>unittestresults.out
+	gcov -b ./cardtest4 >>unittestresults.out
+
+.PHONY: unittestresults
 
 player: player.c interface.o
 	gcc -o player player.c -g  dominion.o rngs.o interface.o $(CFLAGS)
