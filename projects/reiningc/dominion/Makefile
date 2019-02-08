@@ -65,7 +65,7 @@ unittestresults: unittest1 unittest2 unittest3 unittest4 cardtest1 cardtest2 car
 	gcov -b ./cardtest2 >>unittestresults.out
 	gcov -b ./cardtest3 >>unittestresults.out
 	gcov -b ./cardtest4 >>unittestresults.out
-
+	gcov -b ./dominion.c >> unittestresults.out
 .PHONY: unittestresults
 
 player: player.c interface.o
