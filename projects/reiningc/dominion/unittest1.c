@@ -38,14 +38,21 @@ int main() {
     
     // shuffle hand
     shuffle(0,&G);
-    
-    // test 1: compare number of cards (should be 5 after shuffle)
+ 
+    // --------------------- TEST 1 -------------------------------------------
+    // Shuffle(): Compare number of cards after shuffle (should be 5 after shuffle)
+    // ------------------------------------------------------------------------
+       
     if(G.deckCount[0] == numCardsInDeck)
 	    printf("shuffle() Test 1: %sPASS %s- same number of cards in deck\n", Color_Green, Color_end);
     else
 	    printf("shuffle() Test 1: %sFAIL %s- different number of cards in deck\n", Color_Red, Color_end);
 
-    // test 2: compare cards in hand vs original cards (should match)
+    // --------------------- TEST 2 -------------------------------------------
+    // Shuffle(): Compare cards in deck vs original cards (should match)
+    // ------------------------------------------------------------------------
+    
+    // loop through cards in deck and check for matching cards in test deck
     for(i = 0; i < numCardsInDeck; i++)
     {
 	sameCards = 0; // Set to false for each check
@@ -66,7 +73,11 @@ int main() {
 	    printf("shuffle() Test 2: %sFAIL %s- not the same cards in deck\n", Color_Red, Color_end);
 
 
-    // test 3: compare card locations vs original cards (should have at least one difference)
+    // --------------------- TEST 3 -------------------------------------------
+    // Shuffle(): Compare card locations vs original cards (should have at least one difference)
+    // ------------------------------------------------------------------------
+    
+    // loop through cards in deck and see if any were shuffled
     for(i = 0; i < numCardsInDeck; i++)
     {
 	shuffleFound = 0; // Set to false for each check

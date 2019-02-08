@@ -33,7 +33,10 @@ int main() {
 	hand = 2;
     struct gameState G;
   
-    // test 1: player gains card in their discard pile (should add card to discard)
+    // --------------------- TEST 1 -------------------------------------------
+    // gainCard(): Player gains card in their discard pile (should add card to discard, not hand or deck)
+    // ------------------------------------------------------------------------
+ 
     G.numPlayers = 2;
     G.supplyCount[gold] = 3;	// 3 gold cards available for gaining
     rv = gainCard(gold, &G, discard, player);	// attempt to gain the gold coin to the discard pile of player 1 and save return value in rv
@@ -51,7 +54,12 @@ int main() {
     else
 	    printf("gainCard() Test 1: %sFAIL %s- card not bought and added to discard\n", Color_Red, Color_end);
 
-    // test 2: player gains card in their deck (should add card to deck)
+ 
+    // --------------------- TEST 2 -------------------------------------------
+    // gainCard(): Player gains card in their deck (should add card to deck, not hand or discard)
+    // ------------------------------------------------------------------------
+ 
+
     cardAdded = 0; 				// reset cardAdded to false
     rv = gainCard(gold, &G, deck, player); 	// attempt to gain gold coin in deck of player 1
     // check for gold coin in deck
@@ -67,8 +75,11 @@ int main() {
 	    printf("gainCard() Test 2: %sPASS %s- card gained and added to deck\n", Color_Green, Color_end);
     else
 	    printf("gainCard() Test 2: %sFAIL %s- card not gained and added to deck\n", Color_Red, Color_end);
+ 
+    // --------------------- TEST 3 -------------------------------------------
+    // gainCard(): Player gains card in their hand (should add card to hand, not deck or discard)
+    // ------------------------------------------------------------------------
 
-    // test 3: player gains card in the hand (should add card to hand)
     cardAdded = 0;				// reset cardAdded to false
     rv = gainCard(gold, &G, hand, player);	// attempt to gain gold in hand
     // check for gold in hand
@@ -85,7 +96,10 @@ int main() {
     else
 	    printf("gainCard() Test 3: %sFAIL %s- card not gained and added to hand\n", Color_Red, Color_end);
 
-    // test 4: player attempts to gain card when none is left in supply (should not add card to hand)
+    // --------------------- TEST 4 -------------------------------------------
+    // gainCard(): Player attempts to gain card when none is left in supply (should nto add card to hand)
+    // ------------------------------------------------------------------------
+
     cardAdded = 0;				// reset cardAdded to false
     rv = gainCard(gold, &G, hand, player);	// attempt to gain gold in hand
     // check for gold in hand

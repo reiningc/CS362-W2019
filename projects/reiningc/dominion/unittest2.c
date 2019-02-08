@@ -26,8 +26,11 @@
 int main() {
     int i, rv, cardAdded = 0;
     struct gameState G;
-  
-    // test 1: player has exact match of # of coins to card cost (should add card to discard)
+   
+    // --------------------- TEST 1 -------------------------------------------
+    // buyCard(): Player has exact match of # of coins to card cost (should add card to discard)
+    // ------------------------------------------------------------------------
+ 
     G.numPlayers = 2;
     G.whoseTurn = 0;
     G.coins = 6; 	// gold coin card costs 6 coins 
@@ -47,8 +50,11 @@ int main() {
 	    printf("buyCard() Test 1: %sPASS %s- card bought and added to discard. remaining coins changed to 0\n", Color_Green, Color_end);
     else
 	    printf("buyCard() Test 1: %sFAIL %s- card not bought and added to discard\n", Color_Red, Color_end);
-
-    // test 2: player cannot afford card cost - one coin short (should not add card to discard)
+   
+    // --------------------- TEST 2 -------------------------------------------
+    // buyCard(): Player cannot afford card cost - one coin short (should not add card to discard)
+    // ------------------------------------------------------------------------
+ 
     G.coins = 5;		// reset coins to 5 - one short of the cost for a gold
     cardAdded = 0;		// reset cardAdded to false
     G.discard[0][i] = 0;	// reset discard pile
@@ -66,8 +72,11 @@ int main() {
 	    printf("buyCard() Test 2: %sPASS %s- card not bought if not enough coins\n", Color_Green, Color_end);
     else
 	    printf("buyCard() Test 2: %sFAIL %s- card bought with too few coins\n", Color_Red, Color_end);
-
-    // test 3: player has more coins than needed to buy card - one coin over (should add card to discard)
+   
+    // --------------------- TEST 3 -------------------------------------------
+    // buyCard(): Player has more coins than needed to buy card - one coin over (should add card to discard)
+    // ------------------------------------------------------------------------
+ 
     G.coins = 7;		// reset coins to 7 - one over the cost of a gold
     cardAdded = 0;		// reset cardAdded to false
     G.discard[0][i] = 0;	// reset discard pile

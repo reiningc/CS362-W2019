@@ -42,7 +42,10 @@ int main() {
     // initialize a game state and player cards
     initializeGame(numPlayers, k, seed, &G);
 
-    // test 1: play smithy with and check if 3 cards are drawn (should be 3 cards added to hand)
+    // --------------------- TEST 1 -------------------------------------------
+    // Play smithy and check if 3 cards added to the hand
+    // ------------------------------------------------------------------------
+    
     // copy the game state to a test case
     memcpy(&testG, &G, sizeof(struct gameState));
     oldHandCt = testG.handCount[curPlayer];
