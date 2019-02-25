@@ -72,8 +72,8 @@ int cardInHand(int p, struct gameState *g, int card)
 int checkAdventurerCard(int p, struct gameState *post) {
   struct gameState pre;
   int i, r, 
-      preHandTreasures = -5, preDeckTreasures = -5, preDiscardTreasures = -5,
-      postHandTreasures = -5, postDeckTreasures = -5, postDiscardTreasures = -5,
+      preHandTreasures = -5, preDeckTreasures = -5,// preDiscardTreasures = -5,
+      postHandTreasures = -5, postDeckTreasures = -5,// postDiscardTreasures = -5,
       card = adventurer,
       choice1 = 0, choice2 = 0, choice3 = 0,
       handPos = 0;
@@ -97,14 +97,14 @@ int checkAdventurerCard(int p, struct gameState *post) {
   // save initial counts of treasures in hand, deck, and discard
   preHandTreasures = countHandTreasures(p, &pre);
   preDeckTreasures = countDeckTreasures(p, &pre);
-  preDiscardTreasures = countDiscardTreasures(p, &pre);
+  //preDiscardTreasures = countDiscardTreasures(p, &pre);
   
   // play card and store result in r  
   r = playCard(handPos,choice1,choice2,choice3,post);
 
   postHandTreasures = countHandTreasures(p,post);
   postDeckTreasures = countDeckTreasures(p,post);
-  postDiscardTreasures = countDiscardTreasures(p,post);
+  //postDiscardTreasures = countDiscardTreasures(p,post);
   
   // ASSERTIONS
   assert(r == 0);
