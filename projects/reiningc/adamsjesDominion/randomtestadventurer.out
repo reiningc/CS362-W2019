@@ -1,0 +1,3448 @@
+Testing drawCard.
+RANDOM TESTS.
+Random Test #1
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -14
+Random Test #2
+Random Test #3
+Random Test #4
+Random Test #5
+Random Test #6
+Random Test #7
+Random Test #8
+Random Test #9
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -15
+Random Test #10
+Random Test #11
+Random Test #12
+Random Test #13
+Random Test #14
+Random Test #15
+Random Test #16
+Random Test #17
+Random Test #18
+Random Test #19
+Random Test #20
+Random Test #21
+Random Test #22
+Random Test #23
+Random Test #24
+Random Test #25
+Random Test #26
+Random Test #27
+Random Test #28
+Random Test #29
+Random Test #30
+Random Test #31
+Random Test #32
+Random Test #33
+Random Test #34
+Random Test #35
+Random Test #36
+Random Test #37
+Random Test #38
+Random Test #39
+Random Test #40
+Random Test #41
+Random Test #42
+Random Test #43
+Random Test #44
+Random Test #45
+Random Test #46
+Random Test #47
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -48
+Random Test #48
+Random Test #49
+Random Test #50
+Random Test #51
+Random Test #52
+Random Test #53
+Random Test #54
+Random Test #55
+Random Test #56
+Random Test #57
+Random Test #58
+Random Test #59
+Random Test #60
+Random Test #61
+Random Test #62
+Random Test #63
+Random Test #64
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -5
+Random Test #65
+Random Test #66
+Random Test #67
+Random Test #68
+Random Test #69
+Random Test #70
+Random Test #71
+Random Test #72
+Random Test #73
+Random Test #74
+Random Test #75
+Random Test #76
+Random Test #77
+Random Test #78
+Random Test #79
+Random Test #80
+Random Test #81
+Random Test #82
+Random Test #83
+Random Test #84
+Random Test #85
+Random Test #86
+Random Test #87
+Random Test #88
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -46
+Random Test #89
+Random Test #90
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -23
+Random Test #91
+Random Test #92
+Random Test #93
+Random Test #94
+Random Test #95
+Random Test #96
+Random Test #97
+Random Test #98
+Random Test #99
+Random Test #100
+Random Test #101
+Random Test #102
+Random Test #103
+Random Test #104
+Random Test #105
+Random Test #106
+Random Test #107
+Random Test #108
+Random Test #109
+Random Test #110
+Random Test #111
+Random Test #112
+Random Test #113
+Random Test #114
+Random Test #115
+Random Test #116
+Random Test #117
+Random Test #118
+Random Test #119
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -12
+Random Test #120
+Random Test #121
+Random Test #122
+Random Test #123
+Random Test #124
+Random Test #125
+Random Test #126
+Random Test #127
+Random Test #128
+Random Test #129
+Random Test #130
+Random Test #131
+Random Test #132
+Random Test #133
+Random Test #134
+Random Test #135
+Random Test #136
+Random Test #137
+Random Test #138
+Random Test #139
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -23
+Random Test #140
+Random Test #141
+Random Test #142
+Random Test #143
+Random Test #144
+Random Test #145
+Random Test #146
+Random Test #147
+Random Test #148
+Random Test #149
+Random Test #150
+Random Test #151
+Random Test #152
+Random Test #153
+Random Test #154
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -34
+Random Test #155
+Random Test #156
+Random Test #157
+Random Test #158
+Random Test #159
+Random Test #160
+Random Test #161
+Random Test #162
+Random Test #163
+Random Test #164
+Random Test #165
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -1
+Random Test #166
+Random Test #167
+Random Test #168
+Random Test #169
+Random Test #170
+Random Test #171
+Random Test #172
+Random Test #173
+Random Test #174
+Random Test #175
+Random Test #176
+Random Test #177
+Random Test #178
+Random Test #179
+Random Test #180
+Random Test #181
+Random Test #182
+Random Test #183
+Random Test #184
+Random Test #185
+Random Test #186
+Random Test #187
+Random Test #188
+Random Test #189
+Random Test #190
+Random Test #191
+Random Test #192
+Random Test #193
+Random Test #194
+Random Test #195
+Random Test #196
+Random Test #197
+Random Test #198
+Random Test #199
+Random Test #200
+Random Test #201
+Random Test #202
+Random Test #203
+Random Test #204
+Random Test #205
+Random Test #206
+Random Test #207
+Random Test #208
+Random Test #209
+Random Test #210
+Random Test #211
+Random Test #212
+Random Test #213
+Random Test #214
+Random Test #215
+Random Test #216
+Random Test #217
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -50
+Random Test #218
+Random Test #219
+Random Test #220
+Random Test #221
+Random Test #222
+Random Test #223
+Random Test #224
+Random Test #225
+Random Test #226
+Random Test #227
+Random Test #228
+Random Test #229
+Random Test #230
+Random Test #231
+Random Test #232
+Random Test #233
+Random Test #234
+Random Test #235
+Random Test #236
+Random Test #237
+Random Test #238
+Random Test #239
+Random Test #240
+Random Test #241
+Random Test #242
+Random Test #243
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -18
+Random Test #244
+Random Test #245
+Random Test #246
+Random Test #247
+Random Test #248
+Random Test #249
+Random Test #250
+Random Test #251
+Random Test #252
+Random Test #253
+Random Test #254
+Random Test #255
+Random Test #256
+Random Test #257
+Random Test #258
+Random Test #259
+Random Test #260
+Random Test #261
+Random Test #262
+Random Test #263
+Random Test #264
+Random Test #265
+Random Test #266
+Random Test #267
+Random Test #268
+Random Test #269
+Random Test #270
+Random Test #271
+Random Test #272
+Random Test #273
+Random Test #274
+Random Test #275
+Random Test #276
+Random Test #277
+Random Test #278
+Random Test #279
+Random Test #280
+Random Test #281
+Random Test #282
+Random Test #283
+Random Test #284
+Random Test #285
+Random Test #286
+Random Test #287
+Random Test #288
+Random Test #289
+Random Test #290
+Random Test #291
+Random Test #292
+Random Test #293
+Random Test #294
+Random Test #295
+Random Test #296
+Random Test #297
+Random Test #298
+Random Test #299
+Random Test #300
+Random Test #301
+Random Test #302
+Random Test #303
+Random Test #304
+Random Test #305
+Random Test #306
+Random Test #307
+Random Test #308
+Random Test #309
+Random Test #310
+Random Test #311
+Random Test #312
+Random Test #313
+Random Test #314
+Random Test #315
+Random Test #316
+Random Test #317
+Random Test #318
+Random Test #319
+Random Test #320
+Random Test #321
+Random Test #322
+Random Test #323
+Random Test #324
+Random Test #325
+Random Test #326
+Random Test #327
+Random Test #328
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: 0
+Random Test #329
+Random Test #330
+Random Test #331
+Random Test #332
+Random Test #333
+Random Test #334
+Random Test #335
+Random Test #336
+Random Test #337
+Random Test #338
+Random Test #339
+Random Test #340
+Random Test #341
+Random Test #342
+Random Test #343
+Random Test #344
+Random Test #345
+Random Test #346
+Random Test #347
+Random Test #348
+Random Test #349
+Random Test #350
+Random Test #351
+Random Test #352
+Random Test #353
+Random Test #354
+Random Test #355
+Random Test #356
+Random Test #357
+Random Test #358
+Random Test #359
+Random Test #360
+Random Test #361
+Random Test #362
+Random Test #363
+Random Test #364
+Random Test #365
+Random Test #366
+Random Test #367
+Random Test #368
+Random Test #369
+Random Test #370
+Random Test #371
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -28
+Random Test #372
+Random Test #373
+Random Test #374
+Random Test #375
+Random Test #376
+Random Test #377
+Random Test #378
+Random Test #379
+Random Test #380
+Random Test #381
+Random Test #382
+Random Test #383
+Random Test #384
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -5
+Random Test #385
+Random Test #386
+Random Test #387
+Random Test #388
+Random Test #389
+Random Test #390
+Random Test #391
+Random Test #392
+Random Test #393
+Random Test #394
+Random Test #395
+Random Test #396
+Random Test #397
+Random Test #398
+Random Test #399
+Random Test #400
+Random Test #401
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -2
+Random Test #402
+Random Test #403
+Random Test #404
+Random Test #405
+Random Test #406
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -18
+Random Test #407
+Random Test #408
+Random Test #409
+Random Test #410
+Random Test #411
+Random Test #412
+Random Test #413
+Random Test #414
+Random Test #415
+Random Test #416
+Random Test #417
+Random Test #418
+Random Test #419
+Random Test #420
+Random Test #421
+Random Test #422
+Random Test #423
+Random Test #424
+Random Test #425
+Random Test #426
+Random Test #427
+Random Test #428
+Random Test #429
+Random Test #430
+Random Test #431
+Random Test #432
+Random Test #433
+Random Test #434
+Random Test #435
+Random Test #436
+Random Test #437
+Random Test #438
+Random Test #439
+Random Test #440
+Random Test #441
+Random Test #442
+Random Test #443
+Random Test #444
+Random Test #445
+Random Test #446
+Random Test #447
+Random Test #448
+Random Test #449
+Random Test #450
+Random Test #451
+Random Test #452
+Random Test #453
+Random Test #454
+Random Test #455
+Random Test #456
+Random Test #457
+Random Test #458
+Random Test #459
+Random Test #460
+Random Test #461
+Random Test #462
+Random Test #463
+Random Test #464
+Random Test #465
+Random Test #466
+Random Test #467
+Random Test #468
+Random Test #469
+Random Test #470
+Random Test #471
+Random Test #472
+Random Test #473
+Random Test #474
+Random Test #475
+Random Test #476
+Random Test #477
+Random Test #478
+Random Test #479
+Random Test #480
+Random Test #481
+Random Test #482
+Random Test #483
+Random Test #484
+Random Test #485
+Random Test #486
+Random Test #487
+Random Test #488
+Random Test #489
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -42
+Random Test #490
+Random Test #491
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -35
+Random Test #492
+Random Test #493
+Random Test #494
+Random Test #495
+Random Test #496
+Random Test #497
+Random Test #498
+Random Test #499
+Random Test #500
+Random Test #501
+Random Test #502
+Random Test #503
+Random Test #504
+Random Test #505
+Random Test #506
+Random Test #507
+Random Test #508
+Random Test #509
+Random Test #510
+Random Test #511
+Random Test #512
+Random Test #513
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -46
+Random Test #514
+Random Test #515
+Random Test #516
+Random Test #517
+Random Test #518
+Random Test #519
+Random Test #520
+Random Test #521
+Random Test #522
+Random Test #523
+Random Test #524
+Random Test #525
+Random Test #526
+Random Test #527
+Random Test #528
+Random Test #529
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -12
+Random Test #530
+Random Test #531
+Random Test #532
+Random Test #533
+Random Test #534
+Random Test #535
+Random Test #536
+Random Test #537
+Random Test #538
+Random Test #539
+Random Test #540
+Random Test #541
+Random Test #542
+Random Test #543
+Random Test #544
+Random Test #545
+Random Test #546
+Random Test #547
+Random Test #548
+Random Test #549
+Random Test #550
+Random Test #551
+Random Test #552
+Random Test #553
+Random Test #554
+Random Test #555
+Random Test #556
+Random Test #557
+Random Test #558
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -39
+Random Test #559
+Random Test #560
+Random Test #561
+Random Test #562
+Random Test #563
+Random Test #564
+Random Test #565
+Random Test #566
+Random Test #567
+Random Test #568
+Random Test #569
+Random Test #570
+Random Test #571
+Random Test #572
+Random Test #573
+Random Test #574
+Random Test #575
+Random Test #576
+Random Test #577
+Random Test #578
+Random Test #579
+Random Test #580
+Random Test #581
+Random Test #582
+Random Test #583
+Random Test #584
+Random Test #585
+Random Test #586
+Random Test #587
+Random Test #588
+Random Test #589
+Random Test #590
+Random Test #591
+Random Test #592
+Random Test #593
+Random Test #594
+Random Test #595
+Random Test #596
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -17
+Random Test #597
+Random Test #598
+Random Test #599
+Random Test #600
+Random Test #601
+Random Test #602
+Random Test #603
+Random Test #604
+Random Test #605
+Random Test #606
+Random Test #607
+Random Test #608
+Random Test #609
+Random Test #610
+Random Test #611
+Random Test #612
+Random Test #613
+Random Test #614
+Random Test #615
+Random Test #616
+Random Test #617
+Random Test #618
+Random Test #619
+Random Test #620
+Random Test #621
+Random Test #622
+Random Test #623
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -25
+Random Test #624
+Random Test #625
+Random Test #626
+Random Test #627
+Random Test #628
+Random Test #629
+Random Test #630
+Random Test #631
+Random Test #632
+Random Test #633
+Random Test #634
+Random Test #635
+Random Test #636
+Random Test #637
+Random Test #638
+Random Test #639
+Random Test #640
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -12
+Random Test #641
+Random Test #642
+Random Test #643
+Random Test #644
+Random Test #645
+Random Test #646
+Random Test #647
+Random Test #648
+Random Test #649
+Random Test #650
+Random Test #651
+Random Test #652
+Random Test #653
+Random Test #654
+Random Test #655
+Random Test #656
+Random Test #657
+Random Test #658
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -47
+Random Test #659
+Random Test #660
+Random Test #661
+Random Test #662
+Random Test #663
+Random Test #664
+Random Test #665
+Random Test #666
+Random Test #667
+Random Test #668
+Random Test #669
+Random Test #670
+Random Test #671
+Random Test #672
+Random Test #673
+Random Test #674
+Random Test #675
+Random Test #676
+Random Test #677
+Random Test #678
+Random Test #679
+Random Test #680
+Random Test #681
+Random Test #682
+Random Test #683
+Random Test #684
+Random Test #685
+Random Test #686
+Random Test #687
+Random Test #688
+Random Test #689
+Random Test #690
+Random Test #691
+Random Test #692
+Random Test #693
+Random Test #694
+Random Test #695
+Random Test #696
+Random Test #697
+Random Test #698
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -49
+Random Test #699
+Random Test #700
+Random Test #701
+Random Test #702
+Random Test #703
+Random Test #704
+Random Test #705
+Random Test #706
+Random Test #707
+Random Test #708
+Random Test #709
+Random Test #710
+Random Test #711
+Random Test #712
+Random Test #713
+Random Test #714
+Random Test #715
+Random Test #716
+Random Test #717
+Random Test #718
+Random Test #719
+Random Test #720
+Random Test #721
+Random Test #722
+Random Test #723
+Random Test #724
+Random Test #725
+Random Test #726
+Random Test #727
+Random Test #728
+Random Test #729
+Random Test #730
+Random Test #731
+Random Test #732
+Random Test #733
+Random Test #734
+Random Test #735
+Random Test #736
+Random Test #737
+Random Test #738
+Random Test #739
+Random Test #740
+Random Test #741
+Random Test #742
+Random Test #743
+Random Test #744
+Random Test #745
+Random Test #746
+Random Test #747
+Random Test #748
+Random Test #749
+Random Test #750
+Random Test #751
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -29
+Random Test #752
+Random Test #753
+Random Test #754
+Random Test #755
+Random Test #756
+Random Test #757
+Random Test #758
+Random Test #759
+Random Test #760
+Random Test #761
+Random Test #762
+Random Test #763
+Random Test #764
+Random Test #765
+Random Test #766
+Random Test #767
+Random Test #768
+Random Test #769
+Random Test #770
+Random Test #771
+Random Test #772
+Random Test #773
+Random Test #774
+Random Test #775
+Random Test #776
+Random Test #777
+Random Test #778
+Random Test #779
+Random Test #780
+Random Test #781
+Random Test #782
+Random Test #783
+Random Test #784
+Random Test #785
+Random Test #786
+Random Test #787
+Random Test #788
+Random Test #789
+Random Test #790
+Random Test #791
+Random Test #792
+Random Test #793
+Random Test #794
+Random Test #795
+Random Test #796
+Random Test #797
+Random Test #798
+Random Test #799
+Random Test #800
+Random Test #801
+Random Test #802
+Random Test #803
+Random Test #804
+Random Test #805
+Random Test #806
+Random Test #807
+Random Test #808
+Random Test #809
+Random Test #810
+Random Test #811
+Random Test #812
+Random Test #813
+Random Test #814
+Random Test #815
+Random Test #816
+Random Test #817
+Random Test #818
+Random Test #819
+Random Test #820
+Random Test #821
+Random Test #822
+Random Test #823
+Random Test #824
+Random Test #825
+Random Test #826
+Random Test #827
+Random Test #828
+Random Test #829
+Random Test #830
+Random Test #831
+Random Test #832
+Random Test #833
+Random Test #834
+Random Test #835
+Random Test #836
+Random Test #837
+Random Test #838
+Random Test #839
+Random Test #840
+Random Test #841
+Random Test #842
+Random Test #843
+Random Test #844
+Random Test #845
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -43
+Random Test #846
+Random Test #847
+Random Test #848
+Random Test #849
+Random Test #850
+Random Test #851
+Random Test #852
+Random Test #853
+Random Test #854
+Random Test #855
+Random Test #856
+Random Test #857
+Random Test #858
+Random Test #859
+Random Test #860
+Random Test #861
+Random Test #862
+Random Test #863
+Random Test #864
+Random Test #865
+Random Test #866
+Random Test #867
+Random Test #868
+Random Test #869
+Random Test #870
+Random Test #871
+Random Test #872
+Random Test #873
+Random Test #874
+Random Test #875
+Random Test #876
+Random Test #877
+Random Test #878
+Random Test #879
+Random Test #880
+Random Test #881
+Random Test #882
+Random Test #883
+Random Test #884
+Random Test #885
+Random Test #886
+Random Test #887
+Random Test #888
+Random Test #889
+Random Test #890
+Random Test #891
+Random Test #892
+Random Test #893
+Random Test #894
+Random Test #895
+Random Test #896
+Random Test #897
+Random Test #898
+Random Test #899
+Random Test #900
+Random Test #901
+Random Test #902
+Random Test #903
+Random Test #904
+Random Test #905
+Random Test #906
+Random Test #907
+Random Test #908
+Random Test #909
+Random Test #910
+Random Test #911
+Random Test #912
+Random Test #913
+Random Test #914
+Random Test #915
+Random Test #916
+Random Test #917
+Random Test #918
+Random Test #919
+Random Test #920
+Random Test #921
+Random Test #922
+Random Test #923
+Random Test #924
+Random Test #925
+Random Test #926
+Random Test #927
+Random Test #928
+Random Test #929
+Random Test #930
+Random Test #931
+Random Test #932
+Random Test #933
+Random Test #934
+Random Test #935
+Random Test #936
+Random Test #937
+Random Test #938
+Random Test #939
+Random Test #940
+Random Test #941
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -45
+Random Test #942
+Random Test #943
+Random Test #944
+Random Test #945
+Random Test #946
+Random Test #947
+Random Test #948
+Random Test #949
+Random Test #950
+Random Test #951
+Random Test #952
+Random Test #953
+Random Test #954
+Random Test #955
+Random Test #956
+Random Test #957
+Random Test #958
+Random Test #959
+Random Test #960
+Random Test #961
+Random Test #962
+Random Test #963
+Random Test #964
+Random Test #965
+Random Test #966
+Random Test #967
+Random Test #968
+Random Test #969
+Random Test #970
+Random Test #971
+Random Test #972
+Random Test #973
+Random Test #974
+Random Test #975
+Random Test #976
+Random Test #977
+Random Test #978
+Random Test #979
+Random Test #980
+Random Test #981
+Random Test #982
+Random Test #983
+Random Test #984
+Random Test #985
+Random Test #986
+Random Test #987
+Random Test #988
+Random Test #989
+Random Test #990
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -20
+Random Test #991
+Random Test #992
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -14
+Random Test #993
+Random Test #994
+Random Test #995
+Random Test #996
+Random Test #997
+Random Test #998
+Random Test #999
+Random Test #1000
+Random Test #1001
+Random Test #1002
+Random Test #1003
+Random Test #1004
+Random Test #1005
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -30
+Random Test #1006
+Random Test #1007
+Random Test #1008
+Random Test #1009
+Random Test #1010
+Random Test #1011
+Random Test #1012
+Random Test #1013
+Random Test #1014
+Random Test #1015
+Random Test #1016
+Random Test #1017
+Random Test #1018
+Random Test #1019
+Random Test #1020
+Random Test #1021
+Random Test #1022
+Random Test #1023
+Random Test #1024
+Random Test #1025
+Random Test #1026
+Random Test #1027
+Random Test #1028
+Random Test #1029
+Random Test #1030
+Random Test #1031
+Random Test #1032
+Random Test #1033
+Random Test #1034
+Random Test #1035
+Random Test #1036
+Random Test #1037
+Random Test #1038
+Random Test #1039
+Random Test #1040
+Random Test #1041
+Random Test #1042
+Random Test #1043
+Random Test #1044
+Random Test #1045
+Random Test #1046
+Random Test #1047
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -44
+Random Test #1048
+Random Test #1049
+Random Test #1050
+Random Test #1051
+Random Test #1052
+Random Test #1053
+Random Test #1054
+Random Test #1055
+Random Test #1056
+Random Test #1057
+Random Test #1058
+Random Test #1059
+Random Test #1060
+Random Test #1061
+Random Test #1062
+Random Test #1063
+Random Test #1064
+Random Test #1065
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -35
+Random Test #1066
+Random Test #1067
+Random Test #1068
+Random Test #1069
+Random Test #1070
+Random Test #1071
+Random Test #1072
+Random Test #1073
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -5
+Random Test #1074
+Random Test #1075
+Random Test #1076
+Random Test #1077
+Random Test #1078
+Random Test #1079
+Random Test #1080
+Random Test #1081
+Random Test #1082
+Random Test #1083
+Random Test #1084
+Random Test #1085
+Random Test #1086
+Random Test #1087
+Random Test #1088
+Random Test #1089
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -23
+Random Test #1090
+Random Test #1091
+Random Test #1092
+Random Test #1093
+Random Test #1094
+Random Test #1095
+Random Test #1096
+Random Test #1097
+Random Test #1098
+Random Test #1099
+Random Test #1100
+Random Test #1101
+Random Test #1102
+Random Test #1103
+Random Test #1104
+Random Test #1105
+Random Test #1106
+Random Test #1107
+Random Test #1108
+Random Test #1109
+Random Test #1110
+Random Test #1111
+Random Test #1112
+Random Test #1113
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -42
+Random Test #1114
+Random Test #1115
+Random Test #1116
+Random Test #1117
+Random Test #1118
+Random Test #1119
+Random Test #1120
+Random Test #1121
+Random Test #1122
+Random Test #1123
+Random Test #1124
+Random Test #1125
+Random Test #1126
+Random Test #1127
+Random Test #1128
+Random Test #1129
+Random Test #1130
+Random Test #1131
+Random Test #1132
+Random Test #1133
+Random Test #1134
+Random Test #1135
+Random Test #1136
+Random Test #1137
+Random Test #1138
+Random Test #1139
+Random Test #1140
+Random Test #1141
+Random Test #1142
+Random Test #1143
+Random Test #1144
+Random Test #1145
+Random Test #1146
+Random Test #1147
+Random Test #1148
+Random Test #1149
+Random Test #1150
+Random Test #1151
+Random Test #1152
+Random Test #1153
+Random Test #1154
+Random Test #1155
+Random Test #1156
+Random Test #1157
+Random Test #1158
+Random Test #1159
+Random Test #1160
+Random Test #1161
+Random Test #1162
+Random Test #1163
+Random Test #1164
+Random Test #1165
+Random Test #1166
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -11
+Random Test #1167
+Random Test #1168
+Random Test #1169
+Random Test #1170
+Random Test #1171
+Random Test #1172
+Random Test #1173
+Random Test #1174
+Random Test #1175
+Random Test #1176
+Random Test #1177
+Random Test #1178
+Random Test #1179
+Random Test #1180
+Random Test #1181
+Random Test #1182
+Random Test #1183
+Random Test #1184
+Random Test #1185
+Random Test #1186
+Random Test #1187
+Random Test #1188
+Random Test #1189
+Random Test #1190
+Random Test #1191
+Random Test #1192
+Random Test #1193
+Random Test #1194
+Random Test #1195
+Random Test #1196
+Random Test #1197
+Random Test #1198
+Random Test #1199
+Random Test #1200
+Random Test #1201
+Random Test #1202
+Random Test #1203
+Random Test #1204
+Random Test #1205
+Random Test #1206
+Random Test #1207
+Random Test #1208
+Random Test #1209
+Random Test #1210
+Random Test #1211
+Random Test #1212
+Random Test #1213
+Random Test #1214
+Random Test #1215
+Random Test #1216
+Random Test #1217
+Random Test #1218
+Random Test #1219
+Random Test #1220
+Random Test #1221
+Random Test #1222
+Random Test #1223
+Random Test #1224
+Random Test #1225
+Random Test #1226
+Random Test #1227
+Random Test #1228
+Random Test #1229
+Random Test #1230
+Random Test #1231
+Random Test #1232
+Random Test #1233
+Random Test #1234
+Random Test #1235
+Random Test #1236
+Random Test #1237
+Random Test #1238
+Random Test #1239
+Random Test #1240
+Random Test #1241
+Random Test #1242
+Random Test #1243
+Random Test #1244
+Random Test #1245
+Random Test #1246
+Random Test #1247
+Random Test #1248
+Random Test #1249
+Random Test #1250
+Random Test #1251
+Random Test #1252
+Random Test #1253
+Random Test #1254
+Random Test #1255
+Random Test #1256
+Random Test #1257
+Random Test #1258
+Random Test #1259
+Random Test #1260
+Random Test #1261
+Random Test #1262
+Random Test #1263
+Random Test #1264
+Random Test #1265
+Random Test #1266
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -19
+Random Test #1267
+Random Test #1268
+Random Test #1269
+Random Test #1270
+Random Test #1271
+Random Test #1272
+Random Test #1273
+Random Test #1274
+Random Test #1275
+Random Test #1276
+Random Test #1277
+Random Test #1278
+Random Test #1279
+Random Test #1280
+Random Test #1281
+Random Test #1282
+Random Test #1283
+Random Test #1284
+Random Test #1285
+Random Test #1286
+Random Test #1287
+Random Test #1288
+Random Test #1289
+Random Test #1290
+Random Test #1291
+Random Test #1292
+Random Test #1293
+Random Test #1294
+Random Test #1295
+Random Test #1296
+Random Test #1297
+Random Test #1298
+Random Test #1299
+Random Test #1300
+Random Test #1301
+Random Test #1302
+Random Test #1303
+Random Test #1304
+Random Test #1305
+Random Test #1306
+Random Test #1307
+Random Test #1308
+Random Test #1309
+Random Test #1310
+Random Test #1311
+Random Test #1312
+Random Test #1313
+Random Test #1314
+Random Test #1315
+Random Test #1316
+Random Test #1317
+Random Test #1318
+Random Test #1319
+Random Test #1320
+Random Test #1321
+Random Test #1322
+Random Test #1323
+Random Test #1324
+Random Test #1325
+Random Test #1326
+Random Test #1327
+Random Test #1328
+Random Test #1329
+Random Test #1330
+Random Test #1331
+Random Test #1332
+Random Test #1333
+Random Test #1334
+Random Test #1335
+Random Test #1336
+Random Test #1337
+Random Test #1338
+Random Test #1339
+Random Test #1340
+Random Test #1341
+Random Test #1342
+Random Test #1343
+Random Test #1344
+Random Test #1345
+Random Test #1346
+Random Test #1347
+Random Test #1348
+Random Test #1349
+Random Test #1350
+Random Test #1351
+Random Test #1352
+Random Test #1353
+Random Test #1354
+Random Test #1355
+Random Test #1356
+Random Test #1357
+Random Test #1358
+Random Test #1359
+Random Test #1360
+Random Test #1361
+Random Test #1362
+Random Test #1363
+Random Test #1364
+Random Test #1365
+Random Test #1366
+Random Test #1367
+Random Test #1368
+Random Test #1369
+Random Test #1370
+Random Test #1371
+Random Test #1372
+Random Test #1373
+Random Test #1374
+Random Test #1375
+Random Test #1376
+Random Test #1377
+Random Test #1378
+Random Test #1379
+Random Test #1380
+Random Test #1381
+Random Test #1382
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -6
+Random Test #1383
+Random Test #1384
+Random Test #1385
+Random Test #1386
+Random Test #1387
+Random Test #1388
+Random Test #1389
+Random Test #1390
+Random Test #1391
+Random Test #1392
+Random Test #1393
+Random Test #1394
+Random Test #1395
+Random Test #1396
+Random Test #1397
+Random Test #1398
+Random Test #1399
+Random Test #1400
+Random Test #1401
+Random Test #1402
+Random Test #1403
+Random Test #1404
+Random Test #1405
+Random Test #1406
+Random Test #1407
+Random Test #1408
+Random Test #1409
+Random Test #1410
+Random Test #1411
+Random Test #1412
+Random Test #1413
+Random Test #1414
+Random Test #1415
+Random Test #1416
+Random Test #1417
+Random Test #1418
+Random Test #1419
+Random Test #1420
+Random Test #1421
+Random Test #1422
+Random Test #1423
+Random Test #1424
+Random Test #1425
+Random Test #1426
+Random Test #1427
+Random Test #1428
+Random Test #1429
+Random Test #1430
+Random Test #1431
+Random Test #1432
+Random Test #1433
+Random Test #1434
+Random Test #1435
+Random Test #1436
+Random Test #1437
+Random Test #1438
+Random Test #1439
+Random Test #1440
+Random Test #1441
+Random Test #1442
+Random Test #1443
+Random Test #1444
+Random Test #1445
+Random Test #1446
+Random Test #1447
+Random Test #1448
+Random Test #1449
+Random Test #1450
+Random Test #1451
+Random Test #1452
+Random Test #1453
+Random Test #1454
+Random Test #1455
+Random Test #1456
+Random Test #1457
+Random Test #1458
+Random Test #1459
+Random Test #1460
+Random Test #1461
+Random Test #1462
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -17
+Random Test #1463
+Random Test #1464
+Random Test #1465
+Random Test #1466
+Random Test #1467
+Random Test #1468
+Random Test #1469
+Random Test #1470
+Random Test #1471
+Random Test #1472
+Random Test #1473
+Random Test #1474
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -27
+Random Test #1475
+Random Test #1476
+Random Test #1477
+Random Test #1478
+Random Test #1479
+Random Test #1480
+Random Test #1481
+Random Test #1482
+Random Test #1483
+Random Test #1484
+Random Test #1485
+Random Test #1486
+Random Test #1487
+Random Test #1488
+Random Test #1489
+Random Test #1490
+Random Test #1491
+Random Test #1492
+Random Test #1493
+Random Test #1494
+Random Test #1495
+Random Test #1496
+Random Test #1497
+Random Test #1498
+Random Test #1499
+Random Test #1500
+Random Test #1501
+Random Test #1502
+Random Test #1503
+Random Test #1504
+Random Test #1505
+Random Test #1506
+Random Test #1507
+Random Test #1508
+Random Test #1509
+Random Test #1510
+Random Test #1511
+Random Test #1512
+Random Test #1513
+Random Test #1514
+Random Test #1515
+Random Test #1516
+Random Test #1517
+Random Test #1518
+Random Test #1519
+Random Test #1520
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -32
+Random Test #1521
+Random Test #1522
+Random Test #1523
+Random Test #1524
+Random Test #1525
+Random Test #1526
+Random Test #1527
+Random Test #1528
+Random Test #1529
+Random Test #1530
+Random Test #1531
+Random Test #1532
+Random Test #1533
+Random Test #1534
+Random Test #1535
+Random Test #1536
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -44
+Random Test #1537
+Random Test #1538
+Random Test #1539
+Random Test #1540
+Random Test #1541
+Random Test #1542
+Random Test #1543
+Random Test #1544
+Random Test #1545
+Random Test #1546
+Random Test #1547
+Random Test #1548
+Random Test #1549
+Random Test #1550
+Random Test #1551
+Random Test #1552
+Random Test #1553
+Random Test #1554
+Random Test #1555
+Random Test #1556
+Random Test #1557
+Random Test #1558
+Random Test #1559
+Random Test #1560
+Random Test #1561
+Random Test #1562
+Random Test #1563
+Random Test #1564
+Random Test #1565
+Random Test #1566
+Random Test #1567
+Random Test #1568
+FAIL - deckCount/discardCount mismatch. expected: 2, actual: -6
+FAIL - incorrect number of treasures added to hand. expected: 2, actual: 0
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: 0
+Random Test #1569
+Random Test #1570
+Random Test #1571
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -14
+Random Test #1572
+Random Test #1573
+Random Test #1574
+Random Test #1575
+Random Test #1576
+Random Test #1577
+Random Test #1578
+Random Test #1579
+Random Test #1580
+Random Test #1581
+Random Test #1582
+Random Test #1583
+Random Test #1584
+Random Test #1585
+Random Test #1586
+Random Test #1587
+Random Test #1588
+Random Test #1589
+Random Test #1590
+Random Test #1591
+Random Test #1592
+Random Test #1593
+Random Test #1594
+Random Test #1595
+Random Test #1596
+Random Test #1597
+Random Test #1598
+Random Test #1599
+Random Test #1600
+Random Test #1601
+Random Test #1602
+Random Test #1603
+Random Test #1604
+Random Test #1605
+Random Test #1606
+Random Test #1607
+Random Test #1608
+Random Test #1609
+Random Test #1610
+Random Test #1611
+Random Test #1612
+Random Test #1613
+Random Test #1614
+Random Test #1615
+Random Test #1616
+Random Test #1617
+Random Test #1618
+Random Test #1619
+Random Test #1620
+Random Test #1621
+Random Test #1622
+Random Test #1623
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -14
+Random Test #1624
+Random Test #1625
+Random Test #1626
+Random Test #1627
+Random Test #1628
+Random Test #1629
+Random Test #1630
+Random Test #1631
+Random Test #1632
+Random Test #1633
+Random Test #1634
+Random Test #1635
+Random Test #1636
+Random Test #1637
+Random Test #1638
+Random Test #1639
+Random Test #1640
+Random Test #1641
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -34
+Random Test #1642
+Random Test #1643
+Random Test #1644
+Random Test #1645
+Random Test #1646
+Random Test #1647
+Random Test #1648
+Random Test #1649
+Random Test #1650
+Random Test #1651
+Random Test #1652
+Random Teprofiling:/nfs/stak/users/adamsjes/362/CS362-W2019:Cannot create directory
+profiling:/nfs/stak/users/adamsjes/362/CS362-W2019/projects/adamsjes/dominion/rngs.gcda:Skip
+st #1653
+Random Test #1654
+Random Test #1655
+Random Test #1656
+Random Test #1657
+Random Test #1658
+Random Test #1659
+Random Test #1660
+Random Test #1661
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -55
+Random Test #1662
+Random Test #1663
+Random Test #1664
+Random Test #1665
+Random Test #1666
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -54
+Random Test #1667
+Random Test #1668
+Random Test #1669
+Random Test #1670
+Random Test #1671
+Random Test #1672
+Random Test #1673
+Random Test #1674
+Random Test #1675
+Random Test #1676
+Random Test #1677
+Random Test #1678
+Random Test #1679
+Random Test #1680
+Random Test #1681
+Random Test #1682
+Random Test #1683
+Random Test #1684
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -34
+Random Test #1685
+Random Test #1686
+Random Test #1687
+Random Test #1688
+Random Test #1689
+Random Test #1690
+Random Test #1691
+Random Test #1692
+Random Test #1693
+Random Test #1694
+Random Test #1695
+Random Test #1696
+Random Test #1697
+Random Test #1698
+Random Test #1699
+Random Test #1700
+Random Test #1701
+Random Test #1702
+Random Test #1703
+Random Test #1704
+Random Test #1705
+Random Test #1706
+Random Test #1707
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -51
+Random Test #1708
+Random Test #1709
+Random Test #1710
+Random Test #1711
+Random Test #1712
+Random Test #1713
+Random Test #1714
+Random Test #1715
+Random Test #1716
+Random Test #1717
+Random Test #1718
+Random Test #1719
+Random Test #1720
+Random Test #1721
+Random Test #1722
+Random Test #1723
+Random Test #1724
+Random Test #1725
+Random Test #1726
+Random Test #1727
+Random Test #1728
+Random Test #1729
+Random Test #1730
+Random Test #1731
+Random Test #1732
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -27
+Random Test #1733
+Random Test #1734
+Random Test #1735
+Random Test #1736
+Random Test #1737
+Random Test #1738
+Random Test #1739
+Random Test #1740
+Random Test #1741
+Random Test #1742
+Random Test #1743
+Random Test #1744
+Random Test #1745
+Random Test #1746
+Random Test #1747
+Random Test #1748
+Random Test #1749
+Random Test #1750
+Random Test #1751
+Random Test #1752
+Random Test #1753
+Random Test #1754
+Random Test #1755
+Random Test #1756
+Random Test #1757
+Random Test #1758
+Random Test #1759
+Random Test #1760
+Random Test #1761
+Random Test #1762
+Random Test #1763
+Random Test #1764
+Random Test #1765
+Random Test #1766
+Random Test #1767
+Random Test #1768
+Random Test #1769
+Random Test #1770
+Random Test #1771
+Random Test #1772
+Random Test #1773
+Random Test #1774
+Random Test #1775
+Random Test #1776
+Random Test #1777
+Random Test #1778
+Random Test #1779
+Random Test #1780
+Random Test #1781
+Random Test #1782
+Random Test #1783
+Random Test #1784
+Random Test #1785
+Random Test #1786
+Random Test #1787
+Random Test #1788
+Random Test #1789
+Random Test #1790
+Random Test #1791
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -8
+Random Test #1792
+Random Test #1793
+Random Test #1794
+Random Test #1795
+Random Test #1796
+Random Test #1797
+Random Test #1798
+Random Test #1799
+Random Test #1800
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -29
+Random Test #1801
+Random Test #1802
+Random Test #1803
+Random Test #1804
+Random Test #1805
+Random Test #1806
+Random Test #1807
+Random Test #1808
+Random Test #1809
+Random Test #1810
+Random Test #1811
+Random Test #1812
+Random Test #1813
+Random Test #1814
+Random Test #1815
+Random Test #1816
+Random Test #1817
+Random Test #1818
+Random Test #1819
+Random Test #1820
+Random Test #1821
+Random Test #1822
+Random Test #1823
+Random Test #1824
+Random Test #1825
+Random Test #1826
+Random Test #1827
+Random Test #1828
+Random Test #1829
+Random Test #1830
+Random Test #1831
+Random Test #1832
+Random Test #1833
+Random Test #1834
+Random Test #1835
+Random Test #1836
+Random Test #1837
+Random Test #1838
+Random Test #1839
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -54
+Random Test #1840
+Random Test #1841
+Random Test #1842
+Random Test #1843
+Random Test #1844
+Random Test #1845
+Random Test #1846
+Random Test #1847
+Random Test #1848
+Random Test #1849
+Random Test #1850
+Random Test #1851
+Random Test #1852
+Random Test #1853
+Random Test #1854
+Random Test #1855
+Random Test #1856
+Random Test #1857
+Random Test #1858
+Random Test #1859
+Random Test #1860
+Random Test #1861
+Random Test #1862
+Random Test #1863
+Random Test #1864
+Random Test #1865
+Random Test #1866
+Random Test #1867
+Random Test #1868
+Random Test #1869
+Random Test #1870
+Random Test #1871
+Random Test #1872
+Random Test #1873
+Random Test #1874
+Random Test #1875
+Random Test #1876
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -7
+Random Test #1877
+Random Test #1878
+Random Test #1879
+Random Test #1880
+Random Test #1881
+Random Test #1882
+Random Test #1883
+Random Test #1884
+Random Test #1885
+Random Test #1886
+Random Test #1887
+Random Test #1888
+Random Test #1889
+Random Test #1890
+Random Test #1891
+Random Test #1892
+Random Test #1893
+Random Test #1894
+Random Test #1895
+Random Test #1896
+Random Test #1897
+Random Test #1898
+Random Test #1899
+Random Test #1900
+Random Test #1901
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -5
+Random Test #1902
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -11
+Random Test #1903
+Random Test #1904
+Random Test #1905
+Random Test #1906
+Random Test #1907
+Random Test #1908
+Random Test #1909
+Random Test #1910
+Random Test #1911
+Random Test #1912
+Random Test #1913
+Random Test #1914
+Random Test #1915
+Random Test #1916
+Random Test #1917
+Random Test #1918
+Random Test #1919
+Random Test #1920
+Random Test #1921
+Random Test #1922
+Random Test #1923
+Random Test #1924
+Random Test #1925
+Random Test #1926
+Random Test #1927
+Random Test #1928
+Random Test #1929
+Random Test #1930
+Random Test #1931
+Random Test #1932
+Random Test #1933
+Random Test #1934
+Random Test #1935
+Random Test #1936
+FAIL - deckCount/discardCount mismatch. expected: 2, actual: 1
+FAIL - incorrect number of treasures added to hand. expected: 2, actual: 1
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: 0
+Random Test #1937
+Random Test #1938
+Random Test #1939
+Random Test #1940
+Random Test #1941
+Random Test #1942
+Random Test #1943
+Random Test #1944
+Random Test #1945
+Random Test #1946
+Random Test #1947
+Random Test #1948
+Random Test #1949
+Random Test #1950
+Random Test #1951
+Random Test #1952
+Random Test #1953
+Random Test #1954
+Random Test #1955
+Random Test #1956
+Random Test #1957
+Random Test #1958
+Random Test #1959
+Random Test #1960
+Random Test #1961
+Random Test #1962
+Random Test #1963
+Random Test #1964
+Random Test #1965
+Random Test #1966
+Random Test #1967
+Random Test #1968
+Random Test #1969
+Random Test #1970
+Random Test #1971
+Random Test #1972
+Random Test #1973
+Random Test #1974
+Random Test #1975
+Random Test #1976
+FAIL - incorrect number of treasures removed from deck. expected: 2, actual: -3
+Random Test #1977
+Random Test #1978
+Random Test #1979
+Random Test #1980
+Random Test #1981
+Random Test #1982
+Random Test #1983
+Random Test #1984
+Random Test #1985
+Random Test #1986
+Random Test #1987
+Random Test #1988
+Random Test #1989
+Random Test #1990
+Random Test #1991
+Random Test #1992
+Random Test #1993
+Random Test #1994
+Random Test #1995
+Random Test #1996
+Random Test #1997
+Random Test #1998
+Random Test #1999
+Random Test #2000
+RANDOM TESTS COMPLETED
+File 'dominion.c'
+Lines executed:31.15% of 565
+Creating 'dominion.c.gcov'
+
+        -:    0:Source:dominion.c
+        -:    0:Graph:dominion.gcno
+        -:    0:Data:dominion.gcda
+        -:    0:Runs:4
+        -:    0:Programs:4
+        -:    1:#include "dominion.h"
+        -:    2:#include "dominion_helpers.h"
+        -:    3:#include "rngs.h"
+        -:    4:#include <stdio.h>
+        -:    5:#include <math.h>
+        -:    6:#include <stdlib.h>
+        -:    7:
+   100492:    8:int compare(const void* a, const void* b) {
+   100492:    9:  if (*(int*)a > *(int*)b)
+    50485:   10:    return 1;
+    50007:   11:  if (*(int*)a < *(int*)b)
+    22687:   12:    return -1;
+    27320:   13:  return 0;
+        -:   14:}
+        -:   15:
+    #####:   16:struct gameState* newGame() {
+    #####:   17:  struct gameState* g = malloc(sizeof(struct gameState));
+    #####:   18:  return g;
+        -:   19:}
+        -:   20:
+        -:   21:void adventurerF(int drawnTreasure, struct gameState *state, int currentPlayer, int cardDrawn, int tempHand[]);
+        -:   22:void smithyF(int currentPlayer, struct gameState *state, int handPos);
+        -:   23:int  mineF(int currentPlayer, struct gameState *state, int handPos, int choice1, int choice2);
+        -:   24:void villageF();
+        -:   25:int gardensF();
+        -:   26:
+        -:   27:
+    #####:   28:int* kingdomCards(int k1, int k2, int k3, int k4, int k5, int k6, int k7,
+        -:   29:		  int k8, int k9, int k10) {
+    #####:   30:  int* k = malloc(10 * sizeof(int));
+    #####:   31:  k[0] = k1;
+    #####:   32:  k[1] = k2;
+    #####:   33:  k[2] = k3;
+    #####:   34:  k[3] = k4;
+    #####:   35:  k[4] = k5;
+    #####:   36:  k[5] = k6;
+    #####:   37:  k[6] = k7;
+    #####:   38:  k[7] = k8;
+    #####:   39:  k[8] = k9;
+    #####:   40:  k[9] = k10;
+    #####:   41:  return k;
+        -:   42:}
+        -:   43:
+        2:   44:int initializeGame(int numPlayers, int kingdomCards[10], int randomSeed,
+        -:   45:		   struct gameState *state) {
+        -:   46:
+        -:   47:  int i;
+        -:   48:  int j;
+        -:   49:  int it;			
+        -:   50:  //set up random number generator
+        2:   51:  SelectStream(1);
+        2:   52:  PutSeed((long)randomSeed);
+        -:   53:  
+        -:   54:  //check number of players
+        2:   55:  if (numPlayers > MAX_PLAYERS || numPlayers < 2)
+        -:   56:    {
+    #####:   57:      return -1;
+        -:   58:    }
+        -:   59:
+        -:   60:  //set number of players
+        2:   61:  state->numPlayers = numPlayers;
+        -:   62:
+        -:   63:  //check selected kingdom cards are different
+       22:   64:  for (i = 0; i < 10; i++)
+        -:   65:    {
+      220:   66:      for (j = 0; j < 10; j++)
+        -:   67:        {
+      200:   68:	  if (j != i && kingdomCards[j] == kingdomCards[i])
+        -:   69:	    {
+    #####:   70:	      return -1;
+        -:   71:	    }
+        -:   72:        }
+        -:   73:    }
+        -:   74:
+        -:   75:
+        -:   76:  //initialize supply
+        -:   77:  ///////////////////////////////
+        -:   78:
+        -:   79:  //set number of Curse cards
+        2:   80:  if (numPlayers == 2)
+        -:   81:    {
+        2:   82:      state->supplyCount[curse] = 10;
+        -:   83:    }
+    #####:   84:  else if (numPlayers == 3)
+        -:   85:    {
+    #####:   86:      state->supplyCount[curse] = 20;
+        -:   87:    }
+        -:   88:  else
+        -:   89:    {
+    #####:   90:      state->supplyCount[curse] = 30;
+        -:   91:    }
+        -:   92:
+        -:   93:  //set number of Victory cards
+        2:   94:  if (numPlayers == 2)
+        -:   95:    {
+        2:   96:      state->supplyCount[estate] = 8;
+        2:   97:      state->supplyCount[duchy] = 8;
+        2:   98:      state->supplyCount[province] = 8;
+        -:   99:    }
+        -:  100:  else
+        -:  101:    {
+    #####:  102:      state->supplyCount[estate] = 12;
+    #####:  103:      state->supplyCount[duchy] = 12;
+    #####:  104:      state->supplyCount[province] = 12;
+        -:  105:    }
+        -:  106:
+        -:  107:  //set number of Treasure cards
+        2:  108:  state->supplyCount[copper] = 60 - (7 * numPlayers);
+        2:  109:  state->supplyCount[silver] = 40;
+        2:  110:  state->supplyCount[gold] = 30;
+        -:  111:
+        -:  112:  //set number of Kingdom cards
+       42:  113:  for (i = adventurer; i <= treasure_map; i++)       	//loop all cards
+        -:  114:    {
+      330:  115:      for (j = 0; j < 10; j++)           		//loop chosen cards
+        -:  116:	{
+      310:  117:	  if (kingdomCards[j] == i)
+        -:  118:	    {
+        -:  119:	      //check if card is a 'Victory' Kingdom card
+       20:  120:	      if (kingdomCards[j] == great_hall || kingdomCards[j] == gardens)
+        -:  121:		{
+    #####:  122:		  if (numPlayers == 2){ 
+    #####:  123:		    state->supplyCount[i] = 8; 
+        -:  124:		  }
+    #####:  125:		  else{ state->supplyCount[i] = 12; }
+        -:  126:		}
+        -:  127:	      else
+        -:  128:		{
+       20:  129:		  state->supplyCount[i] = 10;
+        -:  130:		}
+       20:  131:	      break;
+        -:  132:	    }
+        -:  133:	  else    //card is not in the set choosen for the game
+        -:  134:	    {
+      290:  135:	      state->supplyCount[i] = -1;
+        -:  136:	    }
+        -:  137:	}
+        -:  138:
+        -:  139:    }
+        -:  140:
+        -:  141:  ////////////////////////
+        -:  142:  //supply intilization complete
+        -:  143:
+        -:  144:  //set player decks
+        6:  145:  for (i = 0; i < numPlayers; i++)
+        -:  146:    {
+        4:  147:      state->deckCount[i] = 0;
+       16:  148:      for (j = 0; j < 3; j++)
+        -:  149:	{
+       12:  150:	  state->deck[i][j] = estate;
+       12:  151:	  state->deckCount[i]++;
+        -:  152:	}
+       32:  153:      for (j = 3; j < 10; j++)
+        -:  154:	{
+       28:  155:	  state->deck[i][j] = copper;
+       28:  156:	  state->deckCount[i]++;		
+        -:  157:	}
+        -:  158:    }
+        -:  159:
+        -:  160:  //shuffle player decks
+        6:  161:  for (i = 0; i < numPlayers; i++)
+        -:  162:    {
+        4:  163:      if ( shuffle(i, state) < 0 )
+        -:  164:	{
+    #####:  165:	  return -1;
+        -:  166:	}
+        -:  167:    }
+        -:  168:
+        -:  169:  //draw player hands
+        6:  170:  for (i = 0; i < numPlayers; i++)
+        -:  171:    {  
+        -:  172:      //initialize hand size to zero
+        4:  173:      state->handCount[i] = 0;
+        4:  174:      state->discardCount[i] = 0;
+        -:  175:      //draw 5 cards
+        -:  176:      // for (j = 0; j < 5; j++)
+        -:  177:      //	{
+        -:  178:      //	  drawCard(i, state);
+        -:  179:      //	}
+        -:  180:    }
+        -:  181:  
+        -:  182:  //set embargo tokens to 0 for all supply piles
+       56:  183:  for (i = 0; i <= treasure_map; i++)
+        -:  184:    {
+       54:  185:      state->embargoTokens[i] = 0;
+        -:  186:    }
+        -:  187:
+        -:  188:  //initialize first player's turn
+        2:  189:  state->outpostPlayed = 0;
+        2:  190:  state->phase = 0;
+        2:  191:  state->numActions = 1;
+        2:  192:  state->numBuys = 1;
+        2:  193:  state->playedCardCount = 0;
+        2:  194:  state->whoseTurn = 0;
+        2:  195:  state->handCount[state->whoseTurn] = 0;
+        -:  196:  //int it; move to top
+        -:  197:
+        -:  198:  //Moved draw cards to here, only drawing at the start of a turn
+       12:  199:  for (it = 0; it < 5; it++){
+       10:  200:    drawCard(state->whoseTurn, state);
+        -:  201:  }
+        -:  202:
+        2:  203:  updateCoins(state->whoseTurn, state, 0);
+        -:  204:
+        2:  205:  return 0;
+        -:  206:}
+        -:  207:
+      146:  208:int shuffle(int player, struct gameState *state) {
+        -:  209: 
+        -:  210:
+        -:  211:  int newDeck[MAX_DECK];
+      146:  212:  int newDeckPos = 0;
+        -:  213:  int card;
+        -:  214:  int i;
+        -:  215:
+      146:  216:  if (state->deckCount[player] < 1)
+       80:  217:    return -1;
+       66:  218:  qsort ((void*)(state->deck[player]), state->deckCount[player], sizeof(int), compare); 
+        -:  219:  /* SORT CARDS IN DECK TO ENSURE DETERMINISM! */
+        -:  220:
+    14720:  221:  while (state->deckCount[player] > 0) {
+    14588:  222:    card = floor(Random() * state->deckCount[player]);
+    14588:  223:    newDeck[newDeckPos] = state->deck[player][card];
+    14588:  224:    newDeckPos++;
+  1190500:  225:    for (i = card; i < state->deckCount[player]-1; i++) {
+  1175912:  226:      state->deck[player][i] = state->deck[player][i+1];
+        -:  227:    }
+    14588:  228:    state->deckCount[player]--;
+        -:  229:  }
+    14654:  230:  for (i = 0; i < newDeckPos; i++) {
+    14588:  231:    state->deck[player][i] = newDeck[i];
+    14588:  232:    state->deckCount[player]++;
+        -:  233:  }
+        -:  234:
+       66:  235:  return 0;
+        -:  236:}
+        -:  237:
+     2000:  238:int playCard(int handPos, int choice1, int choice2, int choice3, struct gameState *state) 
+        -:  239:{	
+        -:  240:  int card;
+     2000:  241:  int coin_bonus = 0; 		//tracks coins gain from actions
+        -:  242:
+        -:  243:  //check if it is the right phase
+     2000:  244:  if (state->phase != 0)
+        -:  245:    {
+    #####:  246:      return -1;
+        -:  247:    }
+        -:  248:	
+        -:  249:  //check if player has enough actions
+     2000:  250:  if ( state->numActions < 1 )
+        -:  251:    {
+    #####:  252:      return -1;
+        -:  253:    }
+        -:  254:	
+        -:  255:  //get card played
+     2000:  256:  card = handCard(handPos, state);
+        -:  257:	
+        -:  258:  //check if selected card is an action
+     2000:  259:  if ( card < adventurer || card > treasure_map )
+        -:  260:    {
+    #####:  261:      return -1;
+        -:  262:    }
+        -:  263:	
+        -:  264:  //play card
+     2000:  265:  if ( cardEffect(card, choice1, choice2, choice3, state, handPos, &coin_bonus) < 0 )
+        -:  266:    {
+    #####:  267:      return -1;
+        -:  268:    }
+        -:  269:	
+        -:  270:  //reduce number of actions
+     2000:  271:  state->numActions--;
+        -:  272:
+        -:  273:  //update coins (Treasure cards may be added with card draws)
+     2000:  274:  updateCoins(state->whoseTurn, state, coin_bonus);
+        -:  275:	
+     2000:  276:  return 0;
+        -:  277:}
+        -:  278:
+    #####:  279:int buyCard(int supplyPos, struct gameState *state) {
+        -:  280:  int who;
+        -:  281:  if (DEBUG){
+        -:  282:    printf("Entering buyCard...\n");
+        -:  283:  }
+        -:  284:
+        -:  285:  // I don't know what to do about the phase thing.
+        -:  286:
+    #####:  287:  who = state->whoseTurn;
+        -:  288:
+    #####:  289:  if (state->numBuys < 1){
+        -:  290:    if (DEBUG)
+        -:  291:      printf("You do not have any buys left\n");
+    #####:  292:    return -1;
+    #####:  293:  } else if (supplyCount(supplyPos, state) <1){
+        -:  294:    if (DEBUG)
+        -:  295:      printf("There are not any of that type of card left\n");
+    #####:  296:    return -1;
+    #####:  297:  } else if (state->coins < getCost(supplyPos)){
+        -:  298:    if (DEBUG) 
+        -:  299:      printf("You do not have enough money to buy that. You have %d coins.\n", state->coins);
+    #####:  300:    return -1;
+        -:  301:  } else {
+    #####:  302:    state->phase=1;
+        -:  303:    //state->supplyCount[supplyPos]--;
+    #####:  304:    gainCard(supplyPos, state, 0, who); //card goes in discard, this might be wrong.. (2 means goes into hand, 0 goes into discard)
+        -:  305:  
+    #####:  306:    state->coins = (state->coins) - (getCost(supplyPos));
+    #####:  307:    state->numBuys--;
+        -:  308:    if (DEBUG)
+        -:  309:      printf("You bought card number %d for %d coins. You now have %d buys and %d coins.\n", supplyPos, getCost(supplyPos), state->numBuys, state->coins);
+        -:  310:  }
+        -:  311:
+        -:  312:  //state->discard[who][state->discardCount[who]] = supplyPos;
+        -:  313:  //state->discardCount[who]++;
+        -:  314:    
+    #####:  315:  return 0;
+        -:  316:}
+        -:  317:
+    #####:  318:int numHandCards(struct gameState *state) {
+    #####:  319:  return state->handCount[ whoseTurn(state) ];
+        -:  320:}
+        -:  321:
+     2000:  322:int handCard(int handPos, struct gameState *state) {
+     2000:  323:  int currentPlayer = whoseTurn(state);
+     2000:  324:  return state->hand[currentPlayer][handPos];
+        -:  325:}
+        -:  326:
+    #####:  327:int supplyCount(int card, struct gameState *state) {
+    #####:  328:  return state->supplyCount[card];
+        -:  329:}
+        -:  330:
+    #####:  331:int fullDeckCount(int player, int card, struct gameState *state) {
+        -:  332:  int i;
+    #####:  333:  int count = 0;
+        -:  334:
+    #####:  335:  for (i = 0; i < state->deckCount[player]; i++)
+        -:  336:    {
+    #####:  337:      if (state->deck[player][i] == card) count++;
+        -:  338:    }
+        -:  339:
+    #####:  340:  for (i = 0; i < state->handCount[player]; i++)
+        -:  341:    {
+    #####:  342:      if (state->hand[player][i] == card) count++;
+        -:  343:    }
+        -:  344:
+    #####:  345:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  346:    {
+    #####:  347:      if (state->discard[player][i] == card) count++;
+        -:  348:    }
+        -:  349:
+    #####:  350:  return count;
+        -:  351:}
+        -:  352:
+     4002:  353:int whoseTurn(struct gameState *state) {
+     4002:  354:  return state->whoseTurn;
+        -:  355:}
+        -:  356:
+    #####:  357:int endTurn(struct gameState *state) {
+        -:  358:  int k;
+        -:  359:  int i;
+    #####:  360:  int currentPlayer = whoseTurn(state);
+        -:  361:  
+        -:  362:  //Discard hand
+    #####:  363:  for (i = 0; i < state->handCount[currentPlayer]; i++){
+    #####:  364:    state->discard[currentPlayer][state->discardCount[currentPlayer]++] = state->hand[currentPlayer][i];//Discard
+    #####:  365:    state->hand[currentPlayer][i] = -1;//Set card to -1
+        -:  366:  }
+    #####:  367:  state->handCount[currentPlayer] = 0;//Reset hand count
+        -:  368:    
+        -:  369:  //Code for determining the player
+    #####:  370:  if (currentPlayer < (state->numPlayers - 1)){ 
+    #####:  371:    state->whoseTurn = currentPlayer + 1;//Still safe to increment
+        -:  372:  }
+        -:  373:  else{
+    #####:  374:    state->whoseTurn = 0;//Max player has been reached, loop back around to player 1
+        -:  375:  }
+        -:  376:
+    #####:  377:  state->outpostPlayed = 0;
+    #####:  378:  state->phase = 0;
+    #####:  379:  state->numActions = 1;
+    #####:  380:  state->coins = 0;
+    #####:  381:  state->numBuys = 1;
+    #####:  382:  state->playedCardCount = 0;
+    #####:  383:  state->handCount[state->whoseTurn] = 0;
+        -:  384:
+        -:  385:  //int k; move to top
+        -:  386:  //Next player draws hand
+    #####:  387:  for (k = 0; k < 5; k++){
+    #####:  388:    drawCard(state->whoseTurn, state);//Draw a card
+        -:  389:  }
+        -:  390:
+        -:  391:  //Update money
+    #####:  392:  updateCoins(state->whoseTurn, state , 0);
+        -:  393:
+    #####:  394:  return 0;
+        -:  395:}
+        -:  396:
+        4:  397:int isGameOver(struct gameState *state) {
+        -:  398:  int i;
+        -:  399:  int j;
+        -:  400:	
+        -:  401:  //if stack of Province cards is empty, the game ends
+        4:  402:  if (state->supplyCount[province] == 0)
+        -:  403:    {
+        1:  404:      return 1;
+        -:  405:    }
+        -:  406:
+        -:  407:  //if three supply pile are at 0, the game ends
+        3:  408:  j = 0;
+       84:  409:  for (i = 0; i <= treasure_map; i++)
+        -:  410:    {
+       81:  411:      if (state->supplyCount[i] == 0)
+        -:  412:	{
+        5:  413:	  j++;
+        -:  414:	}
+        -:  415:    }
+        3:  416:  if ( j >= 3)
+        -:  417:    {
+        1:  418:      return 1;
+        -:  419:    }
+        -:  420:
+        2:  421:  return 0;
+        -:  422:}
+        -:  423:
+    #####:  424:int scoreFor (int player, struct gameState *state) {
+        -:  425:
+        -:  426:  int i;
+    #####:  427:  int score = 0;
+        -:  428:  //score from hand
+    #####:  429:  for (i = 0; i < state->handCount[player]; i++)
+        -:  430:    {
+    #####:  431:      if (state->hand[player][i] == curse) { score = score - 1; };
+    #####:  432:      if (state->hand[player][i] == estate) { score = score + 1; };
+    #####:  433:      if (state->hand[player][i] == duchy) { score = score + 3; };
+    #####:  434:      if (state->hand[player][i] == province) { score = score + 6; };
+    #####:  435:      if (state->hand[player][i] == great_hall) { score = score + 1; };
+    #####:  436:      if (state->hand[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  437:    }
+        -:  438:
+        -:  439:  //score from discard
+    #####:  440:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  441:    {
+    #####:  442:      if (state->discard[player][i] == curse) { score = score - 1; };
+    #####:  443:      if (state->discard[player][i] == estate) { score = score + 1; };
+    #####:  444:      if (state->discard[player][i] == duchy) { score = score + 3; };
+    #####:  445:      if (state->discard[player][i] == province) { score = score + 6; };
+    #####:  446:      if (state->discard[player][i] == great_hall) { score = score + 1; };
+    #####:  447:      if (state->discard[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  448:    }
+        -:  449:
+        -:  450:  //score from deck
+    #####:  451:  for (i = 0; i < state->discardCount[player]; i++)
+        -:  452:    {
+    #####:  453:      if (state->deck[player][i] == curse) { score = score - 1; };
+    #####:  454:      if (state->deck[player][i] == estate) { score = score + 1; };
+    #####:  455:      if (state->deck[player][i] == duchy) { score = score + 3; };
+    #####:  456:      if (state->deck[player][i] == province) { score = score + 6; };
+    #####:  457:      if (state->deck[player][i] == great_hall) { score = score + 1; };
+    #####:  458:      if (state->deck[player][i] == gardens) { score = score + ( fullDeckCount(player, 0, state) / 10 ); };
+        -:  459:    }
+        -:  460:
+    #####:  461:  return score;
+        -:  462:}
+        -:  463:
+    #####:  464:int getWinners(int players[MAX_PLAYERS], struct gameState *state) {
+        -:  465:  int i;	
+        -:  466:  int j;
+        -:  467:  int highScore;
+        -:  468:  int currentPlayer;
+        -:  469:
+        -:  470:  //get score for each player
+    #####:  471:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  472:    {
+        -:  473:      //set unused player scores to -9999
+    #####:  474:      if (i >= state->numPlayers)
+        -:  475:	{
+    #####:  476:	  players[i] = -9999;
+        -:  477:	}
+        -:  478:      else
+        -:  479:	{
+    #####:  480:	  players[i] = scoreFor (i, state);
+        -:  481:	}
+        -:  482:    }
+        -:  483:
+        -:  484:  //find highest score
+    #####:  485:  j = 0;
+    #####:  486:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  487:    {
+    #####:  488:      if (players[i] > players[j])
+        -:  489:	{
+    #####:  490:	  j = i;
+        -:  491:	}
+        -:  492:    }
+    #####:  493:  highScore = players[j];
+        -:  494:
+        -:  495:  //add 1 to players who had less turns
+    #####:  496:  currentPlayer = whoseTurn(state);
+    #####:  497:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  498:    {
+    #####:  499:      if ( players[i] == highScore && i > currentPlayer )
+        -:  500:	{
+    #####:  501:	  players[i]++;
+        -:  502:	}
+        -:  503:    }
+        -:  504:
+        -:  505:  //find new highest score
+    #####:  506:  j = 0;
+    #####:  507:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  508:    {
+    #####:  509:      if ( players[i] > players[j] )
+        -:  510:	{
+    #####:  511:	  j = i;
+        -:  512:	}
+        -:  513:    }
+    #####:  514:  highScore = players[j];
+        -:  515:
+        -:  516:  //set winners in array to 1 and rest to 0
+    #####:  517:  for (i = 0; i < MAX_PLAYERS; i++)
+        -:  518:    {
+    #####:  519:      if ( players[i] == highScore )
+        -:  520:	{
+    #####:  521:	  players[i] = 1;
+        -:  522:	}
+        -:  523:      else
+        -:  524:	{
+    #####:  525:	  players[i] = 0;
+        -:  526:	}
+        -:  527:    }
+        -:  528:
+    #####:  529:  return 0;
+        -:  530:}
+        -:  531:
+    35958:  532:int drawCard(int player, struct gameState *state)
+        -:  533:{	int count;
+        -:  534:  int deckCounter;
+    35958:  535:  if (state->deckCount[player] <= 0){//Deck is empty
+        -:  536:    
+        -:  537:    //Step 1 Shuffle the discard pile back into a deck
+        -:  538:    int i;
+        -:  539:    //Move discard to deck
+    14619:  540:    for (i = 0; i < state->discardCount[player];i++){
+    14548:  541:      state->deck[player][i] = state->discard[player][i];
+    14548:  542:      state->discard[player][i] = -1;
+        -:  543:    }
+        -:  544:
+       71:  545:    state->deckCount[player] = state->discardCount[player];
+       71:  546:    state->discardCount[player] = 0;//Reset discard
+        -:  547:
+        -:  548:    //Shufffle the deck
+       71:  549:    shuffle(player, state);//Shuffle the deck up and make it so that we can draw
+        -:  550:   
+        -:  551:    if (DEBUG){//Debug statements
+        -:  552:      printf("Deck count now: %d\n", state->deckCount[player]);
+        -:  553:    }
+        -:  554:    
+       71:  555:    state->discardCount[player] = 0;
+        -:  556:
+        -:  557:    //Step 2 Draw Card
+       71:  558:    count = state->handCount[player];//Get current player's hand count
+        -:  559:    
+        -:  560:    if (DEBUG){//Debug statements
+        -:  561:      printf("Current hand count: %d\n", count);
+        -:  562:    }
+        -:  563:    
+       71:  564:    deckCounter = state->deckCount[player];//Create a holder for the deck count
+        -:  565:
+       71:  566:    if (deckCounter == 0)
+        9:  567:      return -1;
+        -:  568:
+       62:  569:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to hand
+       62:  570:    state->deckCount[player]--;
+       62:  571:    state->handCount[player]++;//Increment hand count
+        -:  572:  }
+        -:  573:
+        -:  574:  else{
+    35887:  575:    int count = state->handCount[player];//Get current hand count for player
+        -:  576:    int deckCounter;
+        -:  577:    if (DEBUG){//Debug statements
+        -:  578:      printf("Current hand count: %d\n", count);
+        -:  579:    }
+        -:  580:
+    35887:  581:    deckCounter = state->deckCount[player];//Create holder for the deck count
+    35887:  582:    state->hand[player][count] = state->deck[player][deckCounter - 1];//Add card to the hand
+    35887:  583:    state->deckCount[player]--;
+    35887:  584:    state->handCount[player]++;//Increment hand count
+        -:  585:  }
+        -:  586:
+    35949:  587:  return 0;
+        -:  588:}
+        -:  589:
+    #####:  590:int getCost(int cardNumber)
+        -:  591:{
+    #####:  592:  switch( cardNumber ) 
+        -:  593:    {
+        -:  594:    case curse:
+    #####:  595:      return 0;
+        -:  596:    case estate:
+    #####:  597:      return 2;
+        -:  598:    case duchy:
+    #####:  599:      return 5;
+        -:  600:    case province:
+    #####:  601:      return 8;
+        -:  602:    case copper:
+    #####:  603:      return 0;
+        -:  604:    case silver:
+    #####:  605:      return 3;
+        -:  606:    case gold:
+    #####:  607:      return 6;
+        -:  608:    case adventurer:
+    #####:  609:      return 6;
+        -:  610:    case council_room:
+    #####:  611:      return 5;
+        -:  612:    case feast:
+    #####:  613:      return 4;
+        -:  614:    case gardens:
+    #####:  615:      return 4;
+        -:  616:    case mine:
+    #####:  617:      return 5;
+        -:  618:    case remodel:
+    #####:  619:      return 4;
+        -:  620:    case smithy:
+    #####:  621:      return 4;
+        -:  622:    case village:
+    #####:  623:      return 3;
+        -:  624:    case baron:
+    #####:  625:      return 4;
+        -:  626:    case great_hall:
+    #####:  627:      return 3;
+        -:  628:    case minion:
+    #####:  629:      return 5;
+        -:  630:    case steward:
+    #####:  631:      return 3;
+        -:  632:    case tribute:
+    #####:  633:      return 5;
+        -:  634:    case ambassador:
+    #####:  635:      return 3;
+        -:  636:    case cutpurse:
+    #####:  637:      return 4;
+        -:  638:    case embargo: 
+    #####:  639:      return 2;
+        -:  640:    case outpost:
+    #####:  641:      return 5;
+        -:  642:    case salvager:
+    #####:  643:      return 4;
+        -:  644:    case sea_hag:
+    #####:  645:      return 4;
+        -:  646:    case treasure_map:
+    #####:  647:      return 4;
+        -:  648:    }
+        -:  649:	
+    #####:  650:  return -1;
+        -:  651:}
+        -:  652:
+        -:  653:
+     2001:  654:void adventurerF(int drawntreasure, struct gameState *state, int currentPlayer, int cardDrawn, int temphand[]){
+     2001:  655:      int z = 0;
+    39947:  656:      while(drawntreasure<2){ //bug added should be drawn treasure < 2
+    35945:  657:        if (state->deckCount[currentPlayer] <1){//if the deck is empty we need to shuffle discard and add to deck
+       71:  658:          shuffle(currentPlayer, state);
+        -:  659:        }
+    35945:  660:        drawCard(currentPlayer, state);
+    35945:  661:        cardDrawn = state->hand[currentPlayer][state->handCount[currentPlayer]-1];//top card of hand is most recently drawn card.
+    35945:  662:        if (cardDrawn == copper || cardDrawn == silver || cardDrawn == gold)
+     4002:  663:          drawntreasure++;
+        -:  664:        else{
+    31943:  665:          temphand[z]=cardDrawn;
+    31943:  666:          state->handCount[currentPlayer]--; //this should just remove the top card (the most recently drawn one).
+    31943:  667:          z++;
+        -:  668:        }
+        -:  669:      }
+    35945:  670:      while(z-1>=0){
+    31943:  671:        state->discard[currentPlayer][state->discardCount[currentPlayer]++]=temphand[z-1]; // discard all cards in play that have been drawn
+    31943:  672:        z=z-1;
+        -:  673:      }
+        -:  674:	
+     2001:  675:} 
+        -:  676:
+        -:  677:
+        1:  678:void smithyF(int currentPlayer, struct gameState *state, int handPos) {
+        1:  679:	int i = 0;
+        4:  680:	for (i = 0; i <= 2; i++)//added bug: i should be < 3 not 2
+        -:  681:	{
+        3:  682:		drawCard(currentPlayer, state);
+        -:  683:	}
+        -:  684:
+        -:  685:	//discard card from hand
+        1:  686:	discardCard(handPos, currentPlayer, state, 0);
+        1:  687:}
+        -:  688:
+        -:  689:
+    #####:  690:void villageF(int currentPlayer, struct gameState *state, int handPos) {
+        -:  691:	//+1 Card
+    #####:  692:	drawCard(currentPlayer, state);
+        -:  693:
+        -:  694:	//+2 Actions
+    #####:  695:	state->numActions = state->numActions + 2;
+        -:  696:
+        -:  697:	//discard played card from hand
+    #####:  698:	discardCard(handPos, currentPlayer, state, 0);
+    #####:  699:}
+        -:  700:
+        -:  701:
+    #####:  702:int mineF(int currentPlayer, struct gameState *state, int handPos, int choice1, int choice2) {
+    #####:  703:	int i = 0;
+    #####:  704:	int j = 0;
+    #####:  705:	j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  706:
+    #####:  707:	if (state->hand[currentPlayer][choice1] < copper || state->hand[currentPlayer][choice1] > gold)
+        -:  708:	{
+    #####:  709:		return -1;
+        -:  710:	}
+        -:  711:
+    #####:  712:	if (choice2 >= treasure_map || choice2 < curse)//added bug: shoud be choice2 > treasure map ...
+        -:  713:	{
+    #####:  714:		return -1;
+        -:  715:	}
+        -:  716:
+    #####:  717:	if ((getCost(state->hand[currentPlayer][choice1]) + 3) > getCost(choice2))
+        -:  718:	{
+    #####:  719:		return -1;
+        -:  720:	}
+        -:  721:
+    #####:  722:	gainCard(choice2, state, 2, currentPlayer);
+        -:  723:
+        -:  724:	//discard card from hand
+    #####:  725:	discardCard(handPos, currentPlayer, state, 0);
+        -:  726:
+        -:  727:	//discard trashed card
+    #####:  728:	for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  729:	{
+    #####:  730:		if (state->hand[currentPlayer][i] == j)
+        -:  731:		{
+    #####:  732:			discardCard(i, currentPlayer, state, 0);
+    #####:  733:			break;
+        -:  734:		}
+        -:  735:	}
+    #####:  736:	return 0;
+        -:  737:}
+        -:  738:
+    #####:  739:int gardensF() {
+    #####:  740:	return 1;//added bug, should return -1
+        -:  741:}
+        -:  742:
+        -:  743:
+     2002:  744:int cardEffect(int card, int choice1, int choice2, int choice3, struct gameState *state, int handPos, int *bonus)
+        -:  745:{
+        -:  746:  int i;
+        -:  747:  int j;
+        -:  748:  int k;
+        -:  749:  int x;
+        -:  750:  int index;
+     2002:  751:  int currentPlayer = whoseTurn(state);
+     2002:  752:  int nextPlayer = currentPlayer + 1;
+        -:  753:
+     2002:  754:  int tributeRevealedCards[2] = {-1, -1};
+        -:  755:  int temphand[MAX_HAND];// moved above the if statement
+     2002:  756:  int drawntreasure=0;
+        -:  757:  int cardDrawn;
+     2002:  758:  int z = 0;// this is the counter for the temp hand
+     2002:  759:  if (nextPlayer > (state->numPlayers - 1)){
+     1044:  760:    nextPlayer = 0;
+        -:  761:  }
+        -:  762:  
+        -:  763:	
+        -:  764:  //uses switch to select card and perform actions
+     2002:  765:  switch( card ) 
+        -:  766:    {
+        -:  767:    case adventurer:
+     2001:  768:      adventurerF(drawntreasure, state, currentPlayer, cardDrawn, temphand);	
+     2001:  769:      return 0;
+        -:  770:			
+        -:  771:    case council_room:
+        -:  772:      //+4 Cards
+    #####:  773:      for (i = 0; i < 4; i++)
+        -:  774:	{
+    #####:  775:	  drawCard(currentPlayer, state);
+        -:  776:	}
+        -:  777:			
+        -:  778:      //+1 Buy
+    #####:  779:      state->numBuys++;
+        -:  780:			
+        -:  781:      //Each other player draws a card
+    #####:  782:      for (i = 0; i < state->numPlayers; i++)
+        -:  783:	{
+    #####:  784:	  if ( i != currentPlayer )
+        -:  785:	    {
+    #####:  786:	      drawCard(i, state);
+        -:  787:	    }
+        -:  788:	}
+        -:  789:			
+        -:  790:      //put played card in played card pile
+    #####:  791:      discardCard(handPos, currentPlayer, state, 0);
+        -:  792:			
+    #####:  793:      return 0;
+        -:  794:			
+        -:  795:    case feast:
+        -:  796:      //gain card with cost up to 5
+        -:  797:      //Backup hand
+    #####:  798:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  799:	temphand[i] = state->hand[currentPlayer][i];//Backup card
+    #####:  800:	state->hand[currentPlayer][i] = -1;//Set to nothing
+        -:  801:      }
+        -:  802:      //Backup hand
+        -:  803:
+        -:  804:      //Update Coins for Buy
+    #####:  805:      updateCoins(currentPlayer, state, 5);
+    #####:  806:      x = 1;//Condition to loop on
+    #####:  807:      while( x == 1) {//Buy one card
+    #####:  808:	if (supplyCount(choice1, state) <= 0){
+        -:  809:	  if (DEBUG)
+        -:  810:	    printf("None of that card left, sorry!\n");
+        -:  811:
+        -:  812:	  if (DEBUG){
+        -:  813:	    printf("Cards Left: %d\n", supplyCount(choice1, state));
+        -:  814:	  }
+        -:  815:	}
+    #####:  816:	else if (state->coins < getCost(choice1)){
+    #####:  817:	  printf("That card is too expensive!\n");
+        -:  818:
+        -:  819:	  if (DEBUG){
+        -:  820:	    printf("Coins: %d < %d\n", state->coins, getCost(choice1));
+        -:  821:	  }
+        -:  822:	}
+        -:  823:	else{
+        -:  824:
+        -:  825:	  if (DEBUG){
+        -:  826:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  827:	  }
+        -:  828:
+    #####:  829:	  gainCard(choice1, state, 0, currentPlayer);//Gain the card
+    #####:  830:	  x = 0;//No more buying cards
+        -:  831:
+        -:  832:	  if (DEBUG){
+        -:  833:	    printf("Deck Count: %d\n", state->handCount[currentPlayer] + state->deckCount[currentPlayer] + state->discardCount[currentPlayer]);
+        -:  834:	  }
+        -:  835:
+        -:  836:	}
+        -:  837:      }     
+        -:  838:
+        -:  839:      //Reset Hand
+    #####:  840:      for (i = 0; i <= state->handCount[currentPlayer]; i++){
+    #####:  841:	state->hand[currentPlayer][i] = temphand[i];
+    #####:  842:	temphand[i] = -1;
+        -:  843:      }
+        -:  844:      //Reset Hand
+        -:  845:      			
+    #####:  846:      return 0;
+        -:  847:			
+        -:  848:    case gardens:
+    #####:  849:      return gardensF();
+        -:  850:			
+        -:  851:    case mine:
+    #####:  852:      return mineF(currentPlayer, state, handPos, choice1, choice2);
+        -:  853:			
+        -:  854:    case remodel:
+    #####:  855:      j = state->hand[currentPlayer][choice1];  //store card we will trash
+        -:  856:
+    #####:  857:      if ( (getCost(state->hand[currentPlayer][choice1]) + 2) > getCost(choice2) )
+        -:  858:	{
+    #####:  859:	  return -1;
+        -:  860:	}
+        -:  861:
+    #####:  862:      gainCard(choice2, state, 0, currentPlayer);
+        -:  863:
+        -:  864:      //discard card from hand
+    #####:  865:      discardCard(handPos, currentPlayer, state, 0);
+        -:  866:
+        -:  867:      //discard trashed card
+    #####:  868:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -:  869:	{
+    #####:  870:	  if (state->hand[currentPlayer][i] == j)
+        -:  871:	    {
+    #####:  872:	      discardCard(i, currentPlayer, state, 0);			
+    #####:  873:	      break;
+        -:  874:	    }
+        -:  875:	}
+        -:  876:
+        -:  877:
+    #####:  878:      return 0;
+        -:  879:		
+        -:  880:    case smithy:
+        1:  881:      smithyF(currentPlayer, state, handPos);
+        1:  882:      return 0;
+        -:  883:		
+        -:  884:    case village:
+    #####:  885:      villageF(currentPlayer, state, handPos);
+    #####:  886:      return 0;
+        -:  887:		
+        -:  888:    case baron:
+    #####:  889:      state->numBuys++;//Increase buys by 1!
+    #####:  890:      if (choice1 > 0){//Boolean true or going to discard an estate
+    #####:  891:	int p = 0;//Iterator for hand!
+    #####:  892:	int card_not_discarded = 1;//Flag for discard set!
+    #####:  893:	while(card_not_discarded){
+    #####:  894:	  if (state->hand[currentPlayer][p] == estate){//Found an estate card!
+    #####:  895:	    state->coins += 4;//Add 4 coins to the amount of coins
+    #####:  896:	    state->discard[currentPlayer][state->discardCount[currentPlayer]] = state->hand[currentPlayer][p];
+    #####:  897:	    state->discardCount[currentPlayer]++;
+    #####:  898:	    for (;p < state->handCount[currentPlayer]; p++){
+    #####:  899:	      state->hand[currentPlayer][p] = state->hand[currentPlayer][p+1];
+        -:  900:	    }
+    #####:  901:	    state->hand[currentPlayer][state->handCount[currentPlayer]] = -1;
+    #####:  902:	    state->handCount[currentPlayer]--;
+    #####:  903:	    card_not_discarded = 0;//Exit the loop
+        -:  904:	  }
+    #####:  905:	  else if (p > state->handCount[currentPlayer]){
+        -:  906:	    if(DEBUG) {
+        -:  907:	      printf("No estate cards in your hand, invalid choice\n");
+        -:  908:	      printf("Must gain an estate if there are any\n");
+        -:  909:	    }
+    #####:  910:	    if (supplyCount(estate, state) > 0){
+    #####:  911:	      gainCard(estate, state, 0, currentPlayer);
+    #####:  912:	      state->supplyCount[estate]--;//Decrement estates
+    #####:  913:	      if (supplyCount(estate, state) == 0){
+    #####:  914:		isGameOver(state);
+        -:  915:	      }
+        -:  916:	    }
+    #####:  917:	    card_not_discarded = 0;//Exit the loop
+        -:  918:	  }
+        -:  919:			    
+        -:  920:	  else{
+    #####:  921:	    p++;//Next card
+        -:  922:	  }
+        -:  923:	}
+        -:  924:      }
+        -:  925:			    
+        -:  926:      else{
+    #####:  927:	if (supplyCount(estate, state) > 0){
+    #####:  928:	  gainCard(estate, state, 0, currentPlayer);//Gain an estate
+    #####:  929:	  state->supplyCount[estate]--;//Decrement Estates
+    #####:  930:	  if (supplyCount(estate, state) == 0){
+    #####:  931:	    isGameOver(state);
+        -:  932:	  }
+        -:  933:	}
+        -:  934:      }
+        -:  935:	    
+        -:  936:      
+    #####:  937:      return 0;
+        -:  938:		
+        -:  939:    case great_hall:
+        -:  940:      //+1 Card
+    #####:  941:      drawCard(currentPlayer, state);
+        -:  942:			
+        -:  943:      //+1 Actions
+    #####:  944:      state->numActions++;
+        -:  945:			
+        -:  946:      //discard card from hand
+    #####:  947:      discardCard(handPos, currentPlayer, state, 0);
+    #####:  948:      return 0;
+        -:  949:		
+        -:  950:    case minion:
+        -:  951:      //+1 action
+    #####:  952:      state->numActions++;
+        -:  953:			
+        -:  954:      //discard card from hand
+    #####:  955:      discardCard(handPos, currentPlayer, state, 0);
+        -:  956:			
+    #####:  957:      if (choice1)		//+2 coins
+        -:  958:	{
+    #####:  959:	  state->coins = state->coins + 2;
+        -:  960:	}
+        -:  961:			
+    #####:  962:      else if (choice2)		//discard hand, redraw 4, other players with 5+ cards discard hand and draw 4
+        -:  963:	{
+        -:  964:	  //discard hand
+    #####:  965:	  while(numHandCards(state) > 0)
+        -:  966:	    {
+    #####:  967:	      discardCard(handPos, currentPlayer, state, 0);
+        -:  968:	    }
+        -:  969:				
+        -:  970:	  //draw 4
+    #####:  971:	  for (i = 0; i < 4; i++)
+        -:  972:	    {
+    #####:  973:	      drawCard(currentPlayer, state);
+        -:  974:	    }
+        -:  975:				
+        -:  976:	  //other players discard hand and redraw if hand size > 4
+    #####:  977:	  for (i = 0; i < state->numPlayers; i++)
+        -:  978:	    {
+    #####:  979:	      if (i != currentPlayer)
+        -:  980:		{
+    #####:  981:		  if ( state->handCount[i] > 4 )
+        -:  982:		    {
+        -:  983:		      //discard hand
+    #####:  984:		      while( state->handCount[i] > 0 )
+        -:  985:			{
+    #####:  986:			  discardCard(handPos, i, state, 0);
+        -:  987:			}
+        -:  988:							
+        -:  989:		      //draw 4
+    #####:  990:		      for (j = 0; j < 4; j++)
+        -:  991:			{
+    #####:  992:			  drawCard(i, state);
+        -:  993:			}
+        -:  994:		    }
+        -:  995:		}
+        -:  996:	    }
+        -:  997:				
+        -:  998:	}
+    #####:  999:      return 0;
+        -: 1000:		
+        -: 1001:    case steward:
+    #####: 1002:      if (choice1 == 1)
+        -: 1003:	{
+        -: 1004:	  //+2 cards
+    #####: 1005:	  drawCard(currentPlayer, state);
+    #####: 1006:	  drawCard(currentPlayer, state);
+        -: 1007:	}
+    #####: 1008:      else if (choice1 == 2)
+        -: 1009:	{
+        -: 1010:	  //+2 coins
+    #####: 1011:	  state->coins = state->coins + 2;
+        -: 1012:	}
+        -: 1013:      else
+        -: 1014:	{
+        -: 1015:	  //trash 2 cards in hand
+    #####: 1016:	  discardCard(choice2, currentPlayer, state, 1);
+    #####: 1017:	  discardCard(choice3, currentPlayer, state, 1);
+        -: 1018:	}
+        -: 1019:			
+        -: 1020:      //discard card from hand
+    #####: 1021:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1022:      return 0;
+        -: 1023:		
+        -: 1024:    case tribute:
+    #####: 1025:      if ((state->discardCount[nextPlayer] + state->deckCount[nextPlayer]) <= 1){
+    #####: 1026:	if (state->deckCount[nextPlayer] > 0){
+    #####: 1027:	  tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1028:	  state->deckCount[nextPlayer]--;
+        -: 1029:	}
+    #####: 1030:	else if (state->discardCount[nextPlayer] > 0){
+    #####: 1031:	  tributeRevealedCards[0] = state->discard[nextPlayer][state->discardCount[nextPlayer]-1];
+    #####: 1032:	  state->discardCount[nextPlayer]--;
+        -: 1033:	}
+        -: 1034:	else{
+        -: 1035:	  //No Card to Reveal
+        -: 1036:	  if (DEBUG){
+        -: 1037:	    printf("No cards to reveal\n");
+        -: 1038:	  }
+        -: 1039:	}
+        -: 1040:      }
+        -: 1041:	    
+        -: 1042:      else{
+    #####: 1043:	if (state->deckCount[nextPlayer] == 0){
+    #####: 1044:	  for (i = 0; i < state->discardCount[nextPlayer]; i++){
+    #####: 1045:	    state->deck[nextPlayer][i] = state->discard[nextPlayer][i];//Move to deck
+    #####: 1046:	    state->deckCount[nextPlayer]++;
+    #####: 1047:	    state->discard[nextPlayer][i] = -1;
+    #####: 1048:	    state->discardCount[nextPlayer]--;
+        -: 1049:	  }
+        -: 1050:			    
+    #####: 1051:	  shuffle(nextPlayer,state);//Shuffle the deck
+        -: 1052:	} 
+    #####: 1053:	tributeRevealedCards[0] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1054:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####: 1055:	state->deckCount[nextPlayer]--;
+    #####: 1056:	tributeRevealedCards[1] = state->deck[nextPlayer][state->deckCount[nextPlayer]-1];
+    #####: 1057:	state->deck[nextPlayer][state->deckCount[nextPlayer]--] = -1;
+    #####: 1058:	state->deckCount[nextPlayer]--;
+        -: 1059:      }    
+        -: 1060:		       
+    #####: 1061:      if (tributeRevealedCards[0] == tributeRevealedCards[1]){//If we have a duplicate card, just drop one 
+    #####: 1062:	state->playedCards[state->playedCardCount] = tributeRevealedCards[1];
+    #####: 1063:	state->playedCardCount++;
+    #####: 1064:	tributeRevealedCards[1] = -1;
+        -: 1065:      }
+        -: 1066:
+    #####: 1067:      for (i = 0; i <= 2; i ++){
+    #####: 1068:	if (tributeRevealedCards[i] == copper || tributeRevealedCards[i] == silver || tributeRevealedCards[i] == gold){//Treasure cards
+    #####: 1069:	  state->coins += 2;
+        -: 1070:	}
+        -: 1071:		    
+    #####: 1072:	else if (tributeRevealedCards[i] == estate || tributeRevealedCards[i] == duchy || tributeRevealedCards[i] == province || tributeRevealedCards[i] == gardens || tributeRevealedCards[i] == great_hall){//Victory Card Found
+    #####: 1073:	  drawCard(currentPlayer, state);
+    #####: 1074:	  drawCard(currentPlayer, state);
+        -: 1075:	}
+        -: 1076:	else{//Action Card
+    #####: 1077:	  state->numActions = state->numActions + 2;
+        -: 1078:	}
+        -: 1079:      }
+        -: 1080:	    
+    #####: 1081:      return 0;
+        -: 1082:		
+        -: 1083:    case ambassador:
+    #####: 1084:      j = 0;		//used to check if player has enough cards to discard
+        -: 1085:
+    #####: 1086:      if (choice2 > 2 || choice2 < 0)
+        -: 1087:	{
+    #####: 1088:	  return -1;				
+        -: 1089:	}
+        -: 1090:
+    #####: 1091:      if (choice1 == handPos)
+        -: 1092:	{
+    #####: 1093:	  return -1;
+        -: 1094:	}
+        -: 1095:
+    #####: 1096:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1097:	{
+    #####: 1098:	  if (i != handPos && i == state->hand[currentPlayer][choice1] && i != choice1)
+        -: 1099:	    {
+    #####: 1100:	      j++;
+        -: 1101:	    }
+        -: 1102:	}
+    #####: 1103:      if (j < choice2)
+        -: 1104:	{
+    #####: 1105:	  return -1;				
+        -: 1106:	}
+        -: 1107:
+        -: 1108:      if (DEBUG) 
+        -: 1109:	printf("Player %d reveals card number: %d\n", currentPlayer, state->hand[currentPlayer][choice1]);
+        -: 1110:
+        -: 1111:      //increase supply count for choosen card by amount being discarded
+    #####: 1112:      state->supplyCount[state->hand[currentPlayer][choice1]] += choice2;
+        -: 1113:			
+        -: 1114:      //each other player gains a copy of revealed card
+    #####: 1115:      for (i = 0; i < state->numPlayers; i++)
+        -: 1116:	{
+    #####: 1117:	  if (i != currentPlayer)
+        -: 1118:	    {
+    #####: 1119:	      gainCard(state->hand[currentPlayer][choice1], state, 0, i);
+        -: 1120:	    }
+        -: 1121:	}
+        -: 1122:
+        -: 1123:      //discard played card from hand
+    #####: 1124:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1125:
+        -: 1126:      //trash copies of cards returned to supply
+    #####: 1127:      for (j = 0; j < choice2; j++)
+        -: 1128:	{
+    #####: 1129:	  for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1130:	    {
+    #####: 1131:	      if (state->hand[currentPlayer][i] == state->hand[currentPlayer][choice1])
+        -: 1132:		{
+    #####: 1133:		  discardCard(i, currentPlayer, state, 1);
+    #####: 1134:		  break;
+        -: 1135:		}
+        -: 1136:	    }
+        -: 1137:	}			
+        -: 1138:
+    #####: 1139:      return 0;
+        -: 1140:		
+        -: 1141:    case cutpurse:
+        -: 1142:
+    #####: 1143:      updateCoins(currentPlayer, state, 2);
+    #####: 1144:      for (i = 0; i < state->numPlayers; i++)
+        -: 1145:	{
+    #####: 1146:	  if (i != currentPlayer)
+        -: 1147:	    {
+    #####: 1148:	      for (j = 0; j < state->handCount[i]; j++)
+        -: 1149:		{
+    #####: 1150:		  if (state->hand[i][j] == copper)
+        -: 1151:		    {
+    #####: 1152:		      discardCard(j, i, state, 0);
+    #####: 1153:		      break;
+        -: 1154:		    }
+    #####: 1155:		  if (j == state->handCount[i])
+        -: 1156:		    {
+    #####: 1157:		      for (k = 0; k < state->handCount[i]; k++)
+        -: 1158:			{
+        -: 1159:			  if (DEBUG)
+        -: 1160:			    printf("Player %d reveals card number %d\n", i, state->hand[i][k]);
+        -: 1161:			}	
+    #####: 1162:		      break;
+        -: 1163:		    }		
+        -: 1164:		}
+        -: 1165:					
+        -: 1166:	    }
+        -: 1167:				
+        -: 1168:	}				
+        -: 1169:
+        -: 1170:      //discard played card from hand
+    #####: 1171:      discardCard(handPos, currentPlayer, state, 0);			
+        -: 1172:
+    #####: 1173:      return 0;
+        -: 1174:
+        -: 1175:		
+        -: 1176:    case embargo: 
+        -: 1177:      //+2 Coins
+    #####: 1178:      state->coins = state->coins + 2;
+        -: 1179:			
+        -: 1180:      //see if selected pile is in play
+    #####: 1181:      if ( state->supplyCount[choice1] == -1 )
+        -: 1182:	{
+    #####: 1183:	  return -1;
+        -: 1184:	}
+        -: 1185:			
+        -: 1186:      //add embargo token to selected supply pile
+    #####: 1187:      state->embargoTokens[choice1]++;
+        -: 1188:			
+        -: 1189:      //trash card
+    #####: 1190:      discardCard(handPos, currentPlayer, state, 1);		
+    #####: 1191:      return 0;
+        -: 1192:		
+        -: 1193:    case outpost:
+        -: 1194:      //set outpost flag
+    #####: 1195:      state->outpostPlayed++;
+        -: 1196:			
+        -: 1197:      //discard card
+    #####: 1198:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1199:      return 0;
+        -: 1200:		
+        -: 1201:    case salvager:
+        -: 1202:      //+1 buy
+    #####: 1203:      state->numBuys++;
+        -: 1204:			
+    #####: 1205:      if (choice1)
+        -: 1206:	{
+        -: 1207:	  //gain coins equal to trashed card
+    #####: 1208:	  state->coins = state->coins + getCost( handCard(choice1, state) );
+        -: 1209:	  //trash card
+    #####: 1210:	  discardCard(choice1, currentPlayer, state, 1);	
+        -: 1211:	}
+        -: 1212:			
+        -: 1213:      //discard card
+    #####: 1214:      discardCard(handPos, currentPlayer, state, 0);
+    #####: 1215:      return 0;
+        -: 1216:		
+        -: 1217:    case sea_hag:
+    #####: 1218:      for (i = 0; i < state->numPlayers; i++){
+    #####: 1219:	if (i != currentPlayer){
+    #####: 1220:	  state->discard[i][state->discardCount[i]] = state->deck[i][state->deckCount[i]--];			    state->deckCount[i]--;
+    #####: 1221:	  state->discardCount[i]++;
+    #####: 1222:	  state->deck[i][state->deckCount[i]--] = curse;//Top card now a curse
+        -: 1223:	}
+        -: 1224:      }
+    #####: 1225:      return 0;
+        -: 1226:		
+        -: 1227:    case treasure_map:
+        -: 1228:      //search hand for another treasure_map
+    #####: 1229:      index = -1;
+    #####: 1230:      for (i = 0; i < state->handCount[currentPlayer]; i++)
+        -: 1231:	{
+    #####: 1232:	  if (state->hand[currentPlayer][i] == treasure_map && i != handPos)
+        -: 1233:	    {
+    #####: 1234:	      index = i;
+    #####: 1235:	      break;
+        -: 1236:	    }
+        -: 1237:	}
+    #####: 1238:      if (index > -1)
+        -: 1239:	{
+        -: 1240:	  //trash both treasure cards
+    #####: 1241:	  discardCard(handPos, currentPlayer, state, 1);
+    #####: 1242:	  discardCard(index, currentPlayer, state, 1);
+        -: 1243:
+        -: 1244:	  //gain 4 Gold cards
+    #####: 1245:	  for (i = 0; i < 4; i++)
+        -: 1246:	    {
+    #####: 1247:	      gainCard(gold, state, 1, currentPlayer);
+        -: 1248:	    }
+        -: 1249:				
+        -: 1250:	  //return success
+    #####: 1251:	  return 1;
+        -: 1252:	}
+        -: 1253:			
+        -: 1254:      //no second treasure_map found in hand
+    #####: 1255:      return -1;
+        -: 1256:    }
+        -: 1257:	
+    #####: 1258:  return -1;
+        -: 1259:}
+        -: 1260:
+        1: 1261:int discardCard(int handPos, int currentPlayer, struct gameState *state, int trashFlag)
+        -: 1262:{
+        -: 1263:	
+        -: 1264:  //if card is not trashed, added to Played pile 
+        1: 1265:  if (trashFlag < 1)
+        -: 1266:    {
+        -: 1267:      //add card to played pile
+        1: 1268:      state->playedCards[state->playedCardCount] = state->hand[currentPlayer][handPos]; 
+        1: 1269:      state->playedCardCount++;
+        -: 1270:    }
+        -: 1271:	
+        -: 1272:  //set played card to -1
+        1: 1273:  state->hand[currentPlayer][handPos] = -1;
+        -: 1274:	
+        -: 1275:  //remove card from player's hand
+        1: 1276:  if ( handPos == (state->handCount[currentPlayer] - 1) ) 	//last card in hand array is played
+        -: 1277:    {
+        -: 1278:      //reduce number of cards in hand
+    #####: 1279:      state->handCount[currentPlayer]--;
+        -: 1280:    }
+        1: 1281:  else if ( state->handCount[currentPlayer] == 1 ) //only one card in hand
+        -: 1282:    {
+        -: 1283:      //reduce number of cards in hand
+    #####: 1284:      state->handCount[currentPlayer]--;
+        -: 1285:    }
+        -: 1286:  else 	
+        -: 1287:    {
+        -: 1288:      //replace discarded card with last card in hand
+        1: 1289:      state->hand[currentPlayer][handPos] = state->hand[currentPlayer][ (state->handCount[currentPlayer] - 1)];
+        -: 1290:      //set last card to -1
+        1: 1291:      state->hand[currentPlayer][state->handCount[currentPlayer] - 1] = -1;
+        -: 1292:      //reduce number of cards in hand
+        1: 1293:      state->handCount[currentPlayer]--;
+        -: 1294:    }
+        -: 1295:	
+        1: 1296:  return 0;
+        -: 1297:}
+        -: 1298:
+    #####: 1299:int gainCard(int supplyPos, struct gameState *state, int toFlag, int player)
+        -: 1300:{
+        -: 1301:  //Note: supplyPos is enum of choosen card
+        -: 1302:	
+        -: 1303:  //check if supply pile is empty (0) or card is not used in game (-1)
+    #####: 1304:  if ( supplyCount(supplyPos, state) < 1 )
+        -: 1305:    {
+    #####: 1306:      return -1;
+        -: 1307:    }
+        -: 1308:	
+        -: 1309:  //added card for [whoseTurn] current player:
+        -: 1310:  // toFlag = 0 : add to discard
+        -: 1311:  // toFlag = 1 : add to deck
+        -: 1312:  // toFlag = 2 : add to hand
+        -: 1313:
+    #####: 1314:  if (toFlag == 1)
+        -: 1315:    {
+    #####: 1316:      state->deck[ player ][ state->deckCount[player] ] = supplyPos;
+    #####: 1317:      state->deckCount[player]++;
+        -: 1318:    }
+    #####: 1319:  else if (toFlag == 2)
+        -: 1320:    {
+    #####: 1321:      state->hand[ player ][ state->handCount[player] ] = supplyPos;
+    #####: 1322:      state->handCount[player]++;
+        -: 1323:    }
+        -: 1324:  else
+        -: 1325:    {
+    #####: 1326:      state->discard[player][ state->discardCount[player] ] = supplyPos;
+    #####: 1327:      state->discardCount[player]++;
+        -: 1328:    }
+        -: 1329:	
+        -: 1330:  //decrease number in supply pile
+    #####: 1331:  state->supplyCount[supplyPos]--;
+        -: 1332:	 
+    #####: 1333:  return 0;
+        -: 1334:}
+        -: 1335:
+     2002: 1336:int updateCoins(int player, struct gameState *state, int bonus)
+        -: 1337:{
+        -: 1338:  int i;
+        -: 1339:	
+        -: 1340:  //reset coin count
+     2002: 1341:  state->coins = 0;
+        -: 1342:
+        -: 1343:  //add coins for each Treasure card in player's hand
+   510721: 1344:  for (i = 0; i < state->handCount[player]; i++)
+        -: 1345:    {
+   508719: 1346:      if (state->hand[player][i] == copper)
+        -: 1347:	{
+    19988: 1348:	  state->coins += 1;
+        -: 1349:	}
+   488731: 1350:      else if (state->hand[player][i] == silver)
+        -: 1351:	{
+    20081: 1352:	  state->coins += 2;
+        -: 1353:	}
+   468650: 1354:      else if (state->hand[player][i] == gold)
+        -: 1355:	{
+    19902: 1356:	  state->coins += 3;
+        -: 1357:	}	
+        -: 1358:    }	
+        -: 1359:
+        -: 1360:  //add bonus
+     2002: 1361:  state->coins += bonus;
+        -: 1362:
+     2002: 1363:  return 0;
+        -: 1364:}
+        -: 1365:
+        -: 1366:
+        -: 1367://end of dominion.c
+        -: 1368:
