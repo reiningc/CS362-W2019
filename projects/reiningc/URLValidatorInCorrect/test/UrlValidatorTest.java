@@ -22,7 +22,12 @@ public class UrlValidatorTest extends TestCase {
    public void testManualTest()
    {
 	   //You can use this function to implement your manual testing	   
-	   UrlValidator validator = new UrlValidator();
+	   long options =
+	            UrlValidator.ALLOW_2_SLASHES
+	                + UrlValidator.ALLOW_ALL_SCHEMES
+	                + UrlValidator.NO_FRAGMENTS;
+
+	   UrlValidator validator = new UrlValidator(null,null,options);
 	   String urlToTest = "";
 	   Scanner input = new Scanner(System.in);
 	   String quit = "quit";
