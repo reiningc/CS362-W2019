@@ -417,7 +417,7 @@ public class UrlValidator implements Serializable {
             if (port != null && port.length() > 0) {
                 try {
                     int iPort = Integer.parseInt(port);
-                    if (iPort < 0 || iPort > MAX_UNSIGNED_16_BIT_INT) {
+                    if (iPort < 0 || iPort < MAX_UNSIGNED_16_BIT_INT) { 
                         return false;
                     }
                 } catch (NumberFormatException nfe) {
@@ -427,7 +427,7 @@ public class UrlValidator implements Serializable {
         }
 
         String extra = authorityMatcher.group(PARSE_AUTHORITY_EXTRA);
-        if (extra != null && extra.trim().length() > 0){
+        if (extra != null && extra.trim().length() > 0){   
             return false;
         }
 
@@ -486,7 +486,7 @@ public class UrlValidator implements Serializable {
      * @return true if fragment is valid.
      */
     protected boolean isValidFragment(String fragment) {
-        if (fragment == null) {
+        if (fragment != null) {
             return true;
         }
 
