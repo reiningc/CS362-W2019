@@ -486,11 +486,11 @@ public class UrlValidator implements Serializable {
      * @return true if fragment is valid.
      */
     protected boolean isValidFragment(String fragment) {
-        if (fragment != null) {
+        if (fragment == null) {
             return true;
         }
 
-        return isOff(NO_FRAGMENTS);
+        return isOn(NO_FRAGMENTS);
     }
 
     /**
