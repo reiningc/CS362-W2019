@@ -1,2 +1,6 @@
-Colin Reininger reiningc
-This is my assignment-2 submission!
+Jessica Adams (adamsjes)
+Sabrina Bradshaw (bradshas)
+Colin Reininger (reiningc)
+
+
+Final Project B (Revised) submission!
