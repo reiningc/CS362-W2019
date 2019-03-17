@@ -2,6 +2,8 @@
 
 import junit.framework.TestCase;
 import java.util.Scanner;
+import org.junit.Test;
+import java.util.Random; 
 //You can use this as a skeleton for your 3 different test approach
 //It is an optional to use this file, you can generate your own test file(s) to test the target function!
 // Again, it is up to you to use this file or not!
@@ -346,8 +348,79 @@ public class UrlValidatorTest extends TestCase {
       
     }
 
+	   String[] validSchemes = new String[] {"https://", "http://", "ftp://"};
+	   String[] invalidSchemes = new String[] {"9ht://", "h9t://", "ht9://", "http:/", "http//", "http/", "://", ""};
+	   
+	   String[] validAuthorities = new String[] {"www.google.com", "google.au", "localhost"};
+	   String[] invalidAuthorities = new String[] {"google.clmo", "", "aaa", "1.2.3.4.5"};
+	   
+	   String[] validPorts = new String[] {":80", ":20", ":0", ""};
+	   String[] invalidPorts = new String[] {":mkal", "92kdl", ":-10"};
+	   
+	   String[] validPaths = new String[] {"/test", "/test/", "/123456", "", "/test/random"};
+	   String[] invalidPaths = new String[] {"//test", "/test//random", "/.../"};
+	   
+	   String[] queries = new String[] {"", "?action=view"};
+	   
+	   private static final int NUM_TESTS = 10;
 
- }
+	   
+	public static String select(Random random, String[] array){
+			int n = random.nextInt(array.length);
+			return array[n];
+	}
+	   
+	public void testValidRandom(){
+		long randomseed = 7;
+		Random random = new Random(randomseed);
+	    long options =
+	                UrlValidator.ALLOW_2_SLASHES
+	                    + UrlValidator.ALLOW_ALL_SCHEMES
+	                    + UrlValidator.NO_FRAGMENTS;
+		UrlValidator validator = new UrlValidator(null, null, options);
+		for(int i = 0; i < NUM_TESTS; i++){
+			String Scheme = select(random, validSchemes);
+			String Authority = select(random, validAuthorities);
+			String Ports = select(random, validPorts);
+			String Paths = select(random, validPaths);
+			String Query = select(random, queries);
+			String testURL = Scheme + Authority + Ports + Paths + Query;
+			System.out.println("Testing valid URL... " + testURL + "	");
+			if(validator.isValid(testURL) == true){
+				System.out.print("passed\n");
+			}
+			else{
+				System.out.print("failed\n");
+			}
+		}
+	}
+
+	public void testInvalidRandom(){
+		long randomseed = 7;
+		Random random = new Random(randomseed);
+	    long options =
+                UrlValidator.ALLOW_2_SLASHES
+                    + UrlValidator.ALLOW_ALL_SCHEMES
+                    + UrlValidator.NO_FRAGMENTS;
+	    UrlValidator validator = new UrlValidator(null, null, options);
+		for(int i = 0; i < NUM_TESTS; i++){
+			String Scheme = select(random, invalidSchemes);
+			String Authority = select(random, invalidAuthorities);
+			String Ports = select(random, invalidPorts);
+			String Paths = select(random, invalidPaths);
+			String Query = select(random, queries);
+			String testURL = Scheme + Authority + Ports + Paths + Query;
+			System.out.println("Testing invalid URL... " + testURL + "	");
+			if(validator.isValid(testURL) == false){
+				System.out.print("passed\n");
+			}
+			else{
+				System.out.print("failed\n");
+			}
+		}
+	}
+
+}
 
 
 
