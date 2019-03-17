@@ -44,24 +44,6 @@ public class UrlValidatorTest extends TestCase {
    }
    
    
-   public void testYourFirstPartition()
-   {
-   //You can use this function to implement your First Partition testing     
-
-   }
-   
-   public void testYourSecondPartition(){
-     //You can use this function to implement your Second Partition testing    
-
-   }
-   //You need to create more test cases for your Partitions if you need to 
-   
-   public void testIsValid()
-   {
-     //You can use this function for programming based testing
-
-   }
-   
     @Test
     public void testNullEmptyURL() {
       long options =
